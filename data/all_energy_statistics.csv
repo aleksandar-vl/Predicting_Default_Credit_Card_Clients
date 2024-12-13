@@ -1,0 +1,1001 @@
+,country_or_area,commodity_transaction,year,unit,quantity,quantity_footnotes,category
+536037,Estonia,From combustible fuels – Main activity,2002,Terajoules,24717.0,,heat
+705920,Hungary,Lubricants - Transfers and recycled products,2005,"Metric tons,  thousand",0.0,,lubricants
+313067,Uzbekistan,Fuel oil - production from refineries,1994,"Metric tons,  thousand",1314.0,,fuel_oil
+1178585,Brazil,White spirit and special boiling point industrial spirits - Exports,1991,"Metric tons,  thousand",0.0,,white_spirit_and_special_boiling_point_industrial_spirits
+575575,Germany,Industrial Waste - Transformation in heat plants - main activity producers,2008,Terajoules,10057.0,,industrial_waste
+102779,Canada,Brown coal - changes in stocks,1991,"Metric tons,  thousand",-25.0,,brown_coal
+149315,Portugal,Charcoal - Total energy supply,1999,"Metric tons,  thousand",32.0,,charcoal
+319966,Uganda,Fuel oil - Total energy supply,2009,"Metric tons,  thousand",27.3,,fuel_oil
+445945,Morocco,Gas Oil/ Diesel Oil - Imports,1995,"Metric tons,  thousand",138.0,,gas_oil_diesel_oil
+387930,Greenland,Gas Oil/ Diesel Oil - Consumption by construction ,2014,"Metric tons,  thousand",2.7489999999999997,,gas_oil_diesel_oil
+512667,Canada,Hard coal - final energy consumption,2009,"Metric tons,  thousand",1429.0,,hard_coal
+486434,China,"Gasworks Gas - Consumption by other manuf., const. and non-fuel ind.",2014,Terajoules,32337.8,,gasworks_gas
+447734,United Rep. of Tanzania,Gas Oil/ Diesel Oil - Imports,1992,"Metric tons,  thousand",95.0,1.0,gas_oil_diesel_oil
+297620,United Rep. of Tanzania,Fuel oil - Final energy consumption,1995,"Metric tons,  thousand",117.0,,fuel_oil
+1077949,Japan,Electricity - Consumption by transport equipment,2011,"Kilowatt-hours, million",25124.0,,total_electricity
+1183459,Argentina,White spirit and special boiling point industrial spirits - Production,2006,"Metric tons,  thousand",254.0,,white_spirit_and_special_boiling_point_industrial_spirits
+443908,Cook Islands,Gas Oil/ Diesel Oil - Imports,2005,"Metric tons,  thousand",15.0,,gas_oil_diesel_oil
+776839,Syrian Arab Republic,Naphtha - production from refineries,2002,"Metric tons,  thousand",589.0,,naphtha
+847377,Curaçao,Natural gas liquids - Imports,2012,"Metric tons,  thousand",12.0,,natural_gas_liquids
+975618,Australia,Paraffin waxes - Stock changes,2005,"Metric tons,  thousand",0.0,,paraffin_waxes
+62157,Bahamas,Bitumen - Final consumption,2008,"Metric tons,  thousand",3.8,,bitumen
+50707,France,Biogases - Production,1992,Terajoules,3087.0,,biogases
+527220,Belgium,Hard coal - transformation in CHP plants - autoproducers,2013,"Metric tons,  thousand",12.0,,hard_coal
+1171214,Poland,Wind – Main activity,2014,"Kilowatt-hours, million",7676.0,,total_electricity
+669061,South Africa,Liquefied petroleum gas (LPG) - Total energy supply,2014,"Metric tons,  thousand",207.0,,liquified_petroleum_gas
+453060,China,Gas Oil/ Diesel Oil - Own use by oil refineries,2008,"Metric tons,  thousand",256.1,,gas_oil_diesel_oil
+22618,Uruguay,Aviation gasoline - International aviation bunkers,1993,"Metric tons,  thousand",0.0,,aviation_gasoline
+28869,Haiti,"Bagasse - Consumption by manufacturing, construction and non-fuel industry",1995,"Metric tons,  thousand",358.96971,,bagasse
+253547,Egypt,"Electricity - total net installed capacity of electric power plants, wind",2008,"Kilowatts,  thousand",425.0,,electricity_net_installed_capacity_of_electric_power_plants
+240747,Belize,"Electricity - total net installed capacity of electric power plants, main activity",1994,"Kilowatts,  thousand",48.0,,electricity_net_installed_capacity_of_electric_power_plants
+135634,Réunion,Charcoal - Final consumption,1994,"Metric tons,  thousand",13.786,1.0,charcoal
+726247,Greece,Motor Gasoline - Exports,2013,"Metric tons,  thousand",2018.0,,motor_gasoline
+680036,Bhutan,Liquified Petroleum Gas (LPG) - Final energy consumption,2009,"Metric tons,  thousand",6.17,1.0,liquified_petroleum_gas
+726097,Fiji,Motor Gasoline - Exports,1997,"Metric tons,  thousand",20.0,1.0,motor_gasoline
+144771,Micronesia (Fed. States of),Charcoal - Production,2006,"Metric tons,  thousand",0.32,,charcoal
+551594,Mongolia,Heat - Consumption not elsewhere specified (other),1994,Terajoules,27000.0,1.0,heat
+307123,Romania,Fuel oil - Own use by oil refineries,1990,"Metric tons,  thousand",263.0,,fuel_oil
+817479,Norway,Natural gas (including LNG) - flared and vented,1997,Terajoules,16948.0,,natural_gas_including_lng
+606617,Guatemala,Kerosene-type Jet Fuel - Total energy supply,1993,"Metric tons,  thousand",40.0,1.0,kerosene_type_jet_fuel
+148900,Namibia,Charcoal - Total energy supply,1993,"Metric tons,  thousand",2.0,,charcoal
+9127,Latvia,Anthracite - Total energy supply,2010,"Metric tons,  thousand",0.0,,anthracite
+268641,Japan,Fuel oil - Consumption by mining and quarrying ,2004,"Metric tons,  thousand",24.0,,fuel_oil
+67707,Sweden,Bitumen - Imports,2014,"Metric tons,  thousand",105.0,,bitumen
+410420,Martinique,Gas Oil/ Diesel Oil - Consumption by transport,2007,"Metric tons,  thousand",122.90700000000001,,gas_oil_diesel_oil
+361289,Portugal,Fuelwood - Final energy consumption,1990,"Cubic metres, thousand",5173.02649151615,1.0,fuelwood
+198122,Congo,Crude petroleum - reserves from oil shale and tar sands,2005,"Metric tons,  thousand",954.0,,conventional_crude_oil
+989589,Romania,"Petroleum coke - Consumption by manufacturing, construction and non-fuel mining industry",1992,"Metric tons,  thousand",116.0,,petroleum_coke
+1090472,Isle of Man,Electricity - exports,2006,"Kilowatt-hours, million",24.0,,total_electricity
+270204,Russian Federation,Fuel oil - Consumption by non-metallic minerals ,2011,"Metric tons,  thousand",40.0,,fuel_oil
+157158,Ukraine,Coke Oven Gas - Final consumption,1995,Terajoules,49566.0,,coke_oven_coke
+430951,Kuwait,Gas Oil/ Diesel Oil - Exports,1992,"Metric tons,  thousand",2391.0,1.0,gas_oil_diesel_oil
+934062,Malawi,"Other oil products n.e.c. - Consumption by other manuf., const. and non-fuel min. ind.",1994,"Metric tons,  thousand",3.0,,other_oil_products_n_e_c
+431056,Lithuania,Gas Oil/ Diesel Oil - Exports,1992,"Metric tons,  thousand",359.0,,gas_oil_diesel_oil
+1112737,Germany,Electricity - Losses,2012,"Kilowatt-hours, million",24562.0,,total_electricity
+1084069,Barbados,Electricity - Consumption not elsewhere specified (other),2005,"Kilowatt-hours, million",427.24,,total_electricity
+247236,Ecuador,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",2003,"Kilowatts,  thousand",3303.0,,electricity_net_installed_capacity_of_electric_power_plants
+516374,Myanmar,Hard coal - imports,2011,"Metric tons,  thousand",10.0,1.0,hard_coal
+315463,Thailand,Fuel oil - Stock changes,2011,"Metric tons,  thousand",216.0,1.0,fuel_oil
+1142400,United Rep. of Tanzania,"Electricity - total production, main activity",2013,"Kilowatt-hours, million",5926.0,,total_electricity
+53597,Turkey,Biogases - Transformation in CHP plants - autoproducers,2013,Terajoules,104.0,,biogases
+698550,Indonesia,Lubricants - Production,1998,"Metric tons,  thousand",211.0,,lubricants
+954619,Germany,Other recovered gases - Production,2012,Terajoules,19204.0,,other_recovered_gases
+16711,Spain,Aviation gasoline - Final consumption,2008,"Metric tons,  thousand",11.0,,aviation_gasoline
+636373,Romania,Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified,2006,"Metric tons,  thousand",0.0,,liquified_petroleum_gas
+34299,Jamaica,Bagasse - Final energy consumption,2010,"Metric tons,  thousand",318.7,,bagasse
+1032443,Bahamas,Electricity - total thermal production,2007,"Kilowatt-hours, million",2246.0,,thermal_electricity
+875212,Belgium,Other bituminous coal - imports,2013,"Metric tons,  thousand",2210.0,,other_bituminous_coal
+200704,United Kingdom,Direct use of geothermal heat - Final energy consumption,2009,Terajoules,33.0,,direct_use_of_geothermal_heat
+1020952,Argentina,Refinery gas - Total energy supply,2006,"Metric tons,  thousand",889.0,,refinery_gas
+591073,Neth. Antilles (former),Kerosene-type Jet Fuel - Imports,2006,"Metric tons,  thousand",81.0,,kerosene_type_jet_fuel
+53191,Croatia,Biogases - Transformation in CHP plants - autoproducers,2014,Terajoules,103.0,,biogases
+210022,Indonesia,"Electricity - net installed capacity of electric power plants, public combustible fuels",1995,"Kilowatts,  thousand",12497.0,,electricity_net_installed_capacity_of_electric_power_plants
+1063307,India,Electricity - Consumption by other,2006,"Kilowatt-hours, million",273655.0,,total_electricity
+27008,Palau,Aviation gasoline - Total energy supply,1994,"Metric tons,  thousand",0.0,1.0,aviation_gasoline
+675886,Philippines,Liquified Petroleum Gas (LPG) - Consumption by machinery,2012,"Metric tons,  thousand",9.68,,liquified_petroleum_gas
+1117822,Faeroe Islands,Electricity - net production,2003,"Kilowatt-hours, million",243.0,,total_electricity
+1019345,Eritrea,Refinery gas - Production from refineries,1996,"Metric tons,  thousand",7.0,,refinery_gas
+741616,Nepal,Motor Gasoline - Imports,2004,"Metric tons,  thousand",54.0,,motor_gasoline
+341505,Croatia,Fuelwood - Consumption by non-metallic minerals ,2002,"Cubic metres, thousand",0.0,,fuelwood
+840893,Congo,"Natural gas (including LNG) - transformation in electricity, CHP and heat plants",2011,Terajoules,5734.0,,natural_gas_including_lng
+662045,Myanmar,Liquefied petroleum gas (LPG) - production from refineries,2001,"Metric tons,  thousand",8.0,,liquified_petroleum_gas
+362705,Bahrain,Fuelwood - Imports,2010,"Cubic metres, thousand",0.35,,fuelwood
+1059572,Other Asia,Electricity - Consumption by non-ferrous metals,2009,"Kilowatt-hours, million",949.0,,total_electricity
+477574,Samoa,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",2001,"Metric tons,  thousand",13.7,1.0,gas_oil_diesel_oil
+820348,Spain,Natural gas (including LNG) - losses,2007,Terajoules,5533.0,,natural_gas_including_lng
+982641,Belarus,Peat - final energy consumption,2014,"Metric tons,  thousand",26.0,,peat
+488002,Spain,Gasworks Gas - Final consumption,1999,Terajoules,1385.0,,gasworks_gas
+762233,Latvia,Municipal Wastes - Production,2005,Terajoules,0.0,,municipal_wastes
+151932,Mexico,Coal Tar - Production,2005,"Metric tons,  thousand",137.0,,coal_tar
+421491,Grenada,Gas Oil/ Diesel Oil - Consumption in road,2008,"Metric tons,  thousand",6.4,,gas_oil_diesel_oil
+166052,Fiji,Coking coal - final consumption,2009,"Metric tons,  thousand",0.01035742,1.0,coking_coal
+1044170,Zambia,Electricity - Consumption by construction,2007,"Kilowatt-hours, million",5.0,,total_electricity
+1124657,Argentina,"Electricity - Own use by electricity, heat and CHP plants",1992,"Kilowatt-hours, million",1879.0,,total_electricity
+635427,Belgium,Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified,2013,"Metric tons,  thousand",0.0,,liquified_petroleum_gas
+1102679,Venezuela (Bolivar. Rep.),Electricity - Gross demand,1996,"Kilowatt-hours, million",74400.0,,total_electricity
+986713,Belarus,Peat Products - Consumption by rail,2008,"Metric tons,  thousand",2.0,,peat_products
+1044725,Jamaica,Electricity - Consumption by food and tobacco,2008,"Kilowatt-hours, million",19.4,,total_electricity
+268232,Viet Nam,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",1993,"Metric tons,  thousand",362.0,,fuel_oil
+185776,Ecuador,Conventional crude oil - transfers and recycled products,1990,"Metric tons,  thousand",-29.0,,conventional_crude_oil
+1090759,Malaysia,Electricity - exports,2014,"Kilowatt-hours, million",12.0,,total_electricity
+800118,Belgium,"Natural Gas (including LNG) - consumption by paper, pulp and print",1997,Terajoules,4177.0,,natural_gas_including_lng
+755490,Jamaica,Motor Gasoline - Total energy supply,2011,"Metric tons,  thousand",498.1602,,motor_gasoline
+542364,Estonia,Heat - Consumption by food and tobacco,2006,Terajoules,285.0,,heat
+305425,Spain,Fuel oil - Own use by coke ovens,1998,"Metric tons,  thousand",20.0,,fuel_oil
+1012191,Morocco,Refinery gas - Energy industries own use,2004,"Metric tons,  thousand",236.0,,refinery_gas
+226046,Niger,"Electricity - net installed capacity of electric power plants, self-producer solar",2012,"Kilowatts,  thousand",1.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+180314,Australia,Conventional crude oil - stock changes,1994,"Metric tons,  thousand",-49.0,,conventional_crude_oil
+339668,Bulgaria,"Fuelwood - Consumption by manufacturing, construction and non-fuel industry",2002,"Cubic metres, thousand",275.752599862616,,fuelwood
+439338,Gabon,Gas Oil/ Diesel Oil - Final energy consumption,1999,"Metric tons,  thousand",221.0,,gas_oil_diesel_oil
+786333,Albania,Natural gas (including LNG) - consumption by households,1992,Terajoules,500.0,1.0,natural_gas_including_lng
+816638,Syrian Arab Republic,Natural gas (including LNG) - Flared,2014,Terajoules,13195.0,,natural_gas_including_lng
+650444,Anguilla,Liquefied petroleum gas (LPG) - Imports,2001,"Metric tons,  thousand",4.4,,liquified_petroleum_gas
+644718,"Korea, Republic of",Liquefied petroleum gas (LPG) - Exports,2011,"Metric tons,  thousand",78.0,,liquified_petroleum_gas
+626824,Singapore,Liquefied petroleum gas (LPG) - Consumption by households,2013,"Metric tons,  thousand",27.0,,liquified_petroleum_gas
+542156,Russian Federation,Heat - Consumption by construction,1993,Terajoules,463272.0,,heat
+381455,United Rep. of Tanzania,Fuelwood - Transformation in charcoal plants,1994,"Cubic metres, thousand",8127.0,,fuelwood
+1088913,Poland,Electricity - Energy industries own use,2008,"Kilowatt-hours, million",9744.0,,total_electricity
+914397,Guadeloupe,Other kerosene - Imports,2007,"Metric tons,  thousand",0.6,,other_kerosene
+1188749,Italy,Electricity - total wind production,1990,"Kilowatt-hours, million",2.0,,wind_electricity
+314038,Gabon,Fuel oil - Stock changes,1996,"Metric tons,  thousand",13.0,,fuel_oil
+872948,Canada,Other bituminous coal - final consumption,1990,"Metric tons,  thousand",592.0,,other_bituminous_coal
+412586,Czechia,Gas Oil/ Diesel Oil - Consumption by transport equipment ,2012,"Metric tons,  thousand",1.0,,gas_oil_diesel_oil
+148829,Mozambique,Charcoal - Total energy supply,2014,"Metric tons,  thousand",715.0,,charcoal
+720462,Bolivia (Plur. State of),Motor Gasoline - Consumption in road,1996,"Metric tons,  thousand",426.0,,motor_gasoline
+470679,Ireland,Gas Oil/ Diesel Oil - Transformation,2004,"Metric tons,  thousand",38.0,,gas_oil_diesel_oil
+464708,Haiti,Gas Oil/ Diesel Oil - Total energy supply,2000,"Metric tons,  thousand",251.0636,,gas_oil_diesel_oil
+557724,Norway,Heat - Net production,2011,Terajoules,21982.0,,heat
+465939,Nepal,Gas Oil/ Diesel Oil - Total energy supply,1991,"Metric tons,  thousand",116.0,,gas_oil_diesel_oil
+162704,Spain,Coke Oven Gas - Transformation in CHP plants - autoproducers,2013,Terajoules,88.0,,coke_oven_coke
+718749,Lithuania,Motor Gasoline - Consumption by wood and wood products ,2013,"Metric tons,  thousand",0.0,,motor_gasoline
+1071867,Morocco,"Electricity - Consumption by paper, pulp and print",2014,"Kilowatt-hours, million",275.0,,total_electricity
+598974,Oman,Kerosene-type Jet Fuel - Production,2001,"Metric tons,  thousand",187.0,,kerosene_type_jet_fuel
+477579,Samoa,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",1996,"Metric tons,  thousand",12.3,1.0,gas_oil_diesel_oil
+484575,Greece,Gasworks Gas - Consumption by food and tobacco ,1993,Terajoules,154.0,,gasworks_gas
+159266,New Zealand,Coke Oven Gas - Own use by coke ovens,2011,Terajoules,1632.0,,coke_oven_coke
+581665,Bahrain,Kerosene-type Jet Fuel - Exports,2006,"Metric tons,  thousand",1798.0,,kerosene_type_jet_fuel
+801496,Belarus,Natural Gas (including LNG) - consumption by textile and leather,2008,Terajoules,1718.0,,natural_gas_including_lng
+458059,"Korea, Republic of",Gas Oil/ Diesel Oil - production from refineries,2011,"Metric tons,  thousand",39604.0,,gas_oil_diesel_oil
+712106,Costa Rica,"Motor Gasoline - Consumption by other manuf., const. and non-fuel min. ind.",2012,"Metric tons,  thousand",0.262979683972912,,motor_gasoline
+532058,Puerto Rico,Hard coal - transformation in electricity plants - main activity producers,2003,"Metric tons,  thousand",1380.0,,hard_coal
+314344,Jamaica,Fuel oil - Stock changes,1993,"Metric tons,  thousand",1.0,,fuel_oil
+169183,Argentina,Coking coal - transformation,2013,"Metric tons,  thousand",13.0,,coking_coal
+395550,Peru,"Gas Oil/ Diesel Oil - Consumption by manufacturing, construction and non-fuel mining industry",2005,"Metric tons,  thousand",447.0,,gas_oil_diesel_oil
+310662,Brazil,Fuel oil - production from refineries,2012,"Metric tons,  thousand",13747.0,,fuel_oil
+188772,Russian Federation,Conventional crude oil - transformation in CHP plants - autoproducers,2008,"Metric tons,  thousand",10.0,,conventional_crude_oil
+1167890,Mexico,Solar – Autoproducer,2005,"Kilowatt-hours, million",9.0,,total_electricity
+705646,Uruguay,Lubricants - Total energy supply,1995,"Metric tons,  thousand",15.0,,lubricants
+1017527,Jordan,Refinery gas - Production,2013,"Metric tons,  thousand",33.0,,refinery_gas
+1055995,Mongolia,"Electricity - Consumption by manufacturing, construction and non-fuel industry",1994,"Kilowatt-hours, million",1700.0,1.0,total_electricity
+198696,Hungary,Direct use of geothermal heat - Consumption by commerce and public services,2000,Terajoules,3308.0,,direct_use_of_geothermal_heat
+273763,Dominica,"Fuel oil - Consumption by other manuf., const. and non-fuel ind.",2006,"Metric tons,  thousand",1.0,1.0,fuel_oil
+816113,United Kingdom,Natural Gas (including LNG) - final energy consumption,1996,Terajoules,2367033.0,,natural_gas_including_lng
+413164,Austria,Gas Oil/ Diesel Oil - Consumption by wood and wood products ,2001,"Metric tons,  thousand",4.0,,gas_oil_diesel_oil
+310497,Azerbaijan,Fuel oil - production from refineries,2007,"Metric tons,  thousand",2949.0,,fuel_oil
+426674,Jordan,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (other),2009,"Metric tons,  thousand",106.3,,gas_oil_diesel_oil
+400040,Fiji,Gas Oil/ Diesel Oil - Consumption by other,1990,"Metric tons,  thousand",11.0,,gas_oil_diesel_oil
+936013,Spain,Other oil products n.e.c. - Exports,2005,"Metric tons,  thousand",312.0,,other_oil_products_n_e_c
+435203,Malaysia,Gas Oil/ Diesel Oil - Final consumption,2010,"Metric tons,  thousand",8265.0,1.0,gas_oil_diesel_oil
+506948,Kazakhstan,"Hard coal - consumption in agriculture, forestry and fishing",2013,"Metric tons,  thousand",358.0,,hard_coal
+976646,Ireland,Paraffin waxes - Total energy supply,1990,"Metric tons,  thousand",5.0,,paraffin_waxes
+880093,Greece,Other bituminous coal - transformation,2005,"Metric tons,  thousand",0.0,,other_bituminous_coal
+343390,Gabon,Fuelwood - Consumption by other,1997,"Cubic metres, thousand",2929.3924469999997,1.0,fuelwood
+618446,Australia,Lignite - Production,2002,"Metric tons,  thousand",66661.0,,lignite
+390069,Dominican Republic,Gas Oil/ Diesel Oil - Consumption by households,2003,"Metric tons,  thousand",70.0,,gas_oil_diesel_oil
+107899,Switzerland,Brown coal - consumption by Other,1999,"Metric tons,  thousand",6.0,,brown_coal
+848594,Qatar,Natural gas liquids - Other transformation,1999,"Metric tons,  thousand",1797.0,,natural_gas_liquids
+1096315,St. Helena and Depend.,Electricity - Final energy consumption,2004,"Kilowatt-hours, million",6.31,,total_electricity
+567334,Poland,Industrial Waste - Consumption by chemical and petrochemical,1992,Terajoules,17039.0,,industrial_waste
+244592,Singapore,"Electricity - total net installed capacity of electric power plants, main activity",2002,"Kilowatts,  thousand",8848.0,,electricity_net_installed_capacity_of_electric_power_plants
+1060925,T.F.Yug.Rep. Macedonia,Electricity - Consumption by non-metallic minerals,2002,"Kilowatt-hours, million",150.0,,total_electricity
+612161,Turkey,Lignite - Consumption by machinery industry,1991,"Metric tons,  thousand",53.0,,lignite
+907107,Myanmar,Other kerosene - Final consumption,2002,"Metric tons,  thousand",2.0,,other_kerosene
+961011,Benin,Vegetal waste - Final consumption,2000,Terajoules,343.0,1.0,other_vegetal_material_and_residues
+434423,Haiti,Gas Oil/ Diesel Oil - Final consumption,2014,"Metric tons,  thousand",392.0,,gas_oil_diesel_oil
+233281,Libya,"Electricity - total net installed capacity of electric power plants, combustible fuels",2012,"Kilowatts,  thousand",8907.0,,electricity_net_installed_capacity_of_electric_power_plants
+173185,Russian Federation,Conventional crude oil - exports,2005,"Metric tons,  thousand",252587.0,,conventional_crude_oil
+653972,Sudan (former),Liquefied petroleum gas (LPG) - Imports,1994,"Metric tons,  thousand",11.0,,liquified_petroleum_gas
+187033,Iraq,Conventional crude oil - transformation,1993,"Metric tons,  thousand",22800.0,,conventional_crude_oil
+663090,Viet Nam,Liquefied petroleum gas (LPG) - production from refineries,2013,"Metric tons,  thousand",415.0,,liquified_petroleum_gas
+226122,Spain,"Electricity - net installed capacity of electric power plants, self-producer solar",2005,"Kilowatts,  thousand",10.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+542915,Bulgaria,Heat - Consumption by households,2007,Terajoules,15791.0,,heat
+24662,New Zealand,Aviation gasoline - Stock changes,1994,"Metric tons,  thousand",1.0,,aviation_gasoline
+1156669,Denmark,From combustible fuels – Main activity – Electricity plants,1990,"Kilowatt-hours, million",2086.0,,total_electricity
+1007585,Hungary,Feedstocks - transfers and recycled products,2002,"Metric tons,  thousand",-681.0,,refinery_feedstocks
+821911,Myanmar,Natural gas (including LNG) - Memo:Gross production,2005,Terajoules,483639.0,,natural_gas_including_lng
+390964,Sweden,Gas Oil/ Diesel Oil - Consumption by households,1997,"Metric tons,  thousand",1274.0,,gas_oil_diesel_oil
+1088748,Mexico,Electricity - Energy industries own use,1997,"Kilowatt-hours, million",127.0,,total_electricity
+1157233,Iraq,From combustible fuels – Main activity – Electricity plants,2007,"Kilowatt-hours, million",27556.0,1.0,total_electricity
+765569,Belgium,Municipal Wastes - Transformation in electricity plants - main activity producers,1993,Terajoules,12808.0,,municipal_wastes
+454096,Belgium,Gas Oil/ Diesel Oil - Production,1990,"Metric tons,  thousand",10229.0,,gas_oil_diesel_oil
+34051,Fiji,Bagasse - Final energy consumption,1990,"Metric tons,  thousand",1050.0,1.0,bagasse
+547596,Serbia and Montenegro,Heat - Consumption by other,2001,Terajoules,19800.0,,heat
+922481,Bahrain,Other kerosene - Stock changes,1997,"Metric tons,  thousand",3.0,,other_kerosene
+128199,Lithuania,Charcoal - Consumption by other,2002,"Metric tons,  thousand",0.4,,charcoal
+854331,Canada,Natural gas liquids - Transformation in oil refineries,2012,"Metric tons,  thousand",2291.0,,natural_gas_liquids
+872638,Slovakia,Other bituminous coal - exports,1994,"Metric tons,  thousand",3.0,,other_bituminous_coal
+367410,Myanmar,Fuelwood - Production,1996,"Cubic metres, thousand",38923.0,,fuelwood
+471147,Malaysia,Gas Oil/ Diesel Oil - Transformation,1997,"Metric tons,  thousand",188.0,,gas_oil_diesel_oil
+115807,Kyrgyzstan,Brown coal - production,1999,"Metric tons,  thousand",320.0,,brown_coal
+696030,Latvia,Lubricants - Non-energy uses,2006,"Metric tons,  thousand",26.0,,lubricants
+365941,Fiji,Fuelwood - Production,2001,"Cubic metres, thousand",37.0,,fuelwood
+311154,El Salvador,Fuel oil - production from refineries,1992,"Metric tons,  thousand",268.0,,fuel_oil
+374116,Ukraine,Fuelwood - Total energy supply,2011,"Cubic metres, thousand",5929.0,,fuelwood
+255808,United States,Ethane - Production,1999,"Metric tons,  thousand",15665.0,,ethane
+249593,Panama,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",2003,"Kilowatts,  thousand",1565.0,,electricity_net_installed_capacity_of_electric_power_plants
+72622,Mexico,Bitumen - Production,2000,"Metric tons,  thousand",1807.0,,bitumen
+278383,French Polynesia,Fuel oil - Consumption by transport,2006,"Metric tons,  thousand",29.7407,1.0,fuel_oil
+634574,St. Lucia,Liquefied petroleum gas (LPG) - Consumption by other,2012,"Metric tons,  thousand",6.0,1.0,liquified_petroleum_gas
+733475,Bahrain,Motor Gasoline - Final energy consumption,2008,"Metric tons,  thousand",564.0,,motor_gasoline
+594801,Kazakhstan,Kerosene-type Jet Fuel - International aviation bunkers,2006,"Metric tons,  thousand",172.0,,kerosene_type_jet_fuel
+834047,Netherlands,Natural gas (including LNG) - total energy supply,1996,Terajoules,1768408.0,,natural_gas_including_lng
+585444,South Africa,Kerosene-type Jet Fuel - Final consumption,2009,"Metric tons,  thousand",1077.0,1.0,kerosene_type_jet_fuel
+715757,Israel,Motor Gasoline - Consumption by transport,2013,"Metric tons,  thousand",2607.0,,motor_gasoline
+938090,Singapore,Other oil products n.e.c. - Final consumption,2008,"Metric tons,  thousand",40.0,,other_oil_products_n_e_c
+717770,St. Helena and Depend.,Motor Gasoline - Consumption by transport,2014,"Metric tons,  thousand",0.6,1.0,motor_gasoline
+719772,United States,"Motor Gasoline - Consumption in agriculture, forestry and fishing",1994,"Metric tons,  thousand",2532.0,,motor_gasoline
+389684,Algeria,Gas Oil/ Diesel Oil - Consumption by households,1994,"Metric tons,  thousand",1008.0,1.0,gas_oil_diesel_oil
+115310,Montenegro,"Brown coal - own use by electricity, CHP and heat plants",2007,"Metric tons,  thousand",4.0,,brown_coal
+530818,United Rep. of Tanzania,"Hard coal - transformation in electricity, CHP and heat plants",2006,"Metric tons,  thousand",11.0,,hard_coal
+996192,Greece,Petroleum coke - Imports,2012,"Metric tons,  thousand",906.0,,petroleum_coke
+1070273,Sierra Leone,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2002,"Kilowatt-hours, million",25.6,,total_electricity
+658676,Philippines,Liquefied petroleum gas (LPG) - Production,2011,"Metric tons,  thousand",385.9,,liquified_petroleum_gas
+797193,New Zealand,Natural gas (including LNG) - consumption by other,2012,Terajoules,15706.0,,natural_gas_including_lng
+118399,Czechia,Brown coal - Transformation in autoproducer CHP plants,2010,"Metric tons,  thousand",2227.0,,brown_coal
+690632,Aruba,Lubricants - Imports,2002,"Metric tons,  thousand",1.0,1.0,lubricants
+1043735,New Zealand,Electricity - Consumption by construction,2014,"Kilowatt-hours, million",349.0,,total_electricity
+792252,Iraq,"Natural gas (including LNG) - consumption by manufacturing, construction and non-fuel industry",1998,Terajoules,112100.0,,natural_gas_including_lng
+830874,Congo,Natural gas (including LNG) - re-injected,2000,Terajoules,15.0,1.0,natural_gas_including_lng
+488660,Croatia,Gasworks Gas - Losses,2001,Terajoules,28.0,,gasworks_gas
+46269,Netherlands,Biogases - Consumption by food and tobacco ,2014,Terajoules,751.0,,biogases
+766400,Serbia,Naphtha - Consumption by chemical and petrochemical,2007,"Metric tons,  thousand",382.0,,naphtha
+1170128,Mexico,Wind – Autoproducer,2002,"Kilowatt-hours, million",14.0,,total_electricity
+1017409,Iran (Islamic Rep. of),Refinery gas - Production,2009,"Metric tons,  thousand",1490.525,,refinery_gas
+477016,New Caledonia,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",2007,"Metric tons,  thousand",8.0,1.0,gas_oil_diesel_oil
+135388,Norway,Charcoal - Final consumption,1998,"Metric tons,  thousand",87.0,1.0,charcoal
+1048749,Northern Mariana Islands,Electricity - Consumption by households,2000,"Kilowatt-hours, million",96.8,1.0,total_electricity
+781198,Spain,Naphtha - Transformation,2009,"Metric tons,  thousand",120.0,,naphtha
+266542,Kyrgyzstan,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",2013,"Metric tons,  thousand",11.0,,fuel_oil
+469834,Dominica,Gas Oil/ Diesel Oil - Transformation,1996,"Metric tons,  thousand",6.0,1.0,gas_oil_diesel_oil
+31739,Australia,Bagasse - Consumption not elsewhere specified (other),1996,"Metric tons,  thousand",8992.701389518392,1.0,bagasse
+1067497,"China, Hong Kong SAR","Electricity - Consumption by other manuf., const. and non-fuel ind.",1992,"Kilowatt-hours, million",6721.0,1.0,total_electricity
+926895,Myanmar,Other kerosene - Total energy supply,2006,"Metric tons,  thousand",1.55,,other_kerosene
+603420,Italy,Kerosene-type Jet Fuel - Stock changes,2010,"Metric tons,  thousand",51.0,,kerosene_type_jet_fuel
+62451,Cameroon,Bitumen - Final consumption,1995,"Metric tons,  thousand",97.0,1.0,bitumen
+1027443,Austria,"Sub-bituminous coal - Consumption by manufacturing, construction and non-fuel industry",2009,"Metric tons,  thousand",73.0,,sub_bituminous_coal
+697077,Solomon Islands,Lubricants - Non-energy uses,2004,"Metric tons,  thousand",1.0,1.0,lubricants
+1041155,Kazakhstan,Electricity - Consumption by commercial and public services,2009,"Kilowatt-hours, million",4235.0,,total_electricity
+583813,Bulgaria,Kerosene-type Jet Fuel - Final consumption,1995,"Metric tons,  thousand",322.0,,kerosene_type_jet_fuel
+297547,Ukraine,Fuel oil - Final energy consumption,1995,"Metric tons,  thousand",4370.0,,fuel_oil
+135559,Portugal,Charcoal - Final consumption,2011,"Metric tons,  thousand",58.263000000000005,1.0,charcoal
+859019,Finland,Of which: biogasoline - Consumption not elsewhere specified (other),2014,"Metric tons,  thousand",6.0,,of_which_biogasoline
+888915,Finland,Other kerosene - Consumption by households,1990,"Metric tons,  thousand",1.0,,other_kerosene
+511399,New Caledonia,Hard coal - final consumption,2003,"Metric tons,  thousand",233.0,1.0,hard_coal
+617359,Turkey,Lignite - Final energy consumption,1996,"Metric tons,  thousand",12518.0,,lignite
+227778,Fiji,"Electricity - total net installed capacity of electric power plants, autoproducer",2000,"Kilowatts,  thousand",40.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+111912,Canada,Brown coal - final consumption,1994,"Metric tons,  thousand",953.0,,brown_coal
+176830,Australia,Conventional crude oil - other energy industry own use,2009,"Metric tons,  thousand",17.0,,conventional_crude_oil
+568520,Russian Federation,"Industrial Waste - Consumption by manufacturing, construction and non-fuel industry",2004,Terajoules,21057.0,,industrial_waste
+154119,Colombia,"Coke Oven Gas - Consumption by manufacturing, construction and non-fuel industry",2000,Terajoules,464.0,,coke_oven_coke
+41970,Luxembourg,Biodiesel - Consumption in transport,2011,"Metric tons,  thousand",43.0,,biodiesel
+97919,Netherlands,"Brown coal briquettes - consumption by manufacturing, construction and non-fuel mining industry",2005,"Metric tons,  thousand",17.0,,brown_coal_briquettes
+919976,Zambia,Other kerosene - Production,2005,"Metric tons,  thousand",19.0,,other_kerosene
+1038818,Poland,Electricity - Consumption by chemical and petrochemical,1997,"Kilowatt-hours, million",9203.0,,total_electricity
+955810,Republic of Moldova,"Vegetal waste - Consumption by agriculture, forestry and fishing",2007,Terajoules,2.0,,other_vegetal_material_and_residues
+166375,Fiji,Coking coal - final energy consumption,2010,"Metric tons,  thousand",0.0050100000000000006,1.0,coking_coal
+662606,South Africa,Liquefied petroleum gas (LPG) - production from refineries,2004,"Metric tons,  thousand",305.0,,liquified_petroleum_gas
+254337,Slovakia,"Electricity - total net installed capacity of electric power plants, wind",2007,"Kilowatts,  thousand",5.0,,electricity_net_installed_capacity_of_electric_power_plants
+88003,United Kingdom,Blast Furnace Gas - Energy industries own use,2001,Terajoules,16951.0,,blast_furnace_gas
+972559,Syrian Arab Republic,Paraffin waxes - Imports,2001,"Metric tons,  thousand",0.0,,paraffin_waxes
+1047218,Greenland,Electricity - Consumption by households,2003,"Kilowatt-hours, million",212.0,,total_electricity
+593035,Bermuda,Kerosene-type Jet Fuel - International aviation bunkers,2010,"Metric tons,  thousand",50.0,1.0,kerosene_type_jet_fuel
+133969,Finland,Charcoal - Final consumption,2004,"Metric tons,  thousand",1.714,,charcoal
+197836,United Kingdom,Crude petroleum - reserves,2010,"Metric tons,  thousand",408000.0,1.0,conventional_crude_oil
+211290,Niger,"Electricity - net installed capacity of electric power plants, public combustible fuels",1993,"Kilowatts,  thousand",105.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+435620,Nauru,Gas Oil/ Diesel Oil - Final consumption,1992,"Metric tons,  thousand",7.5,1.0,gas_oil_diesel_oil
+886719,Ukraine,Other kerosene - Consumption by chemical and petrochemical,2003,"Metric tons,  thousand",0.0,,other_kerosene
+1138585,Djibouti,"Electricity - total production, main activity",1993,"Kilowatt-hours, million",182.0,1.0,total_electricity
+1036394,Seychelles,Electricity - total thermal production,1991,"Kilowatt-hours, million",106.0,,thermal_electricity
+88301,Czechia,Blast furnace gas - final consumption,2009,Terajoules,7890.0,,blast_furnace_gas
+695409,Gabon,Lubricants - Non-energy uses,2012,"Metric tons,  thousand",9.0,,lubricants
+227924,Ghana,"Electricity - total net installed capacity of electric power plants, autoproducer",2009,"Kilowatts,  thousand",230.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+810579,Trinidad and Tobago,Natural gas (including LNG) - exports,2009,Terajoules,808474.0,,natural_gas_including_lng
+1095925,Rwanda,Electricity - Final energy consumption,2002,"Kilowatt-hours, million",166.8,,total_electricity
+70132,Namibia,Bitumen - Non-energy uses,1998,"Metric tons,  thousand",7.0,,bitumen
+1006058,Italy,Feedstocks - stock changes,2004,"Metric tons,  thousand",345.0,,refinery_feedstocks
+382024,Slovakia,Fuelwood - Transformation in CHP plants - autoproducers,2001,"Cubic metres, thousand",124.35686899999999,1.0,fuelwood
+356555,Qatar,Fuelwood - Final consumption,2013,"Cubic metres, thousand",1.4,1.0,fuelwood
+1127664,Mexico,"Electricity - Own use by electricity, heat and CHP plants",2013,"Kilowatt-hours, million",10236.0,,total_electricity
+1007380,Belgium,Feedstocks - transfers and recycled products,2008,"Metric tons,  thousand",-4865.0,,refinery_feedstocks
+24788,Spain,Aviation gasoline - Stock changes,2005,"Metric tons,  thousand",1.0,,aviation_gasoline
+950605,Neth. Antilles (former),Other oil products n.e.c. - Total energy supply,2003,"Metric tons,  thousand",44.0,,other_oil_products_n_e_c
+727015,Pakistan,Motor Gasoline - Exports,2004,"Metric tons,  thousand",1.0,,motor_gasoline
+268079,United Kingdom,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",2004,"Metric tons,  thousand",1010.0,,fuel_oil
+658815,Russian Federation,Liquefied petroleum gas (LPG) - Production,1997,"Metric tons,  thousand",5041.0,,liquified_petroleum_gas
+1092520,Bulgaria,Electricity - Final energy consumption,2009,"Kilowatt-hours, million",26847.0,,total_electricity
+787949,Venezuela (Bolivar. Rep.),Natural gas (including LNG) - consumption by households,2002,Terajoules,47549.301,,natural_gas_including_lng
+948667,Nigeria,Other oil products n.e.c. - Stock changes,2003,"Metric tons,  thousand",1.0,,other_oil_products_n_e_c
+813938,Algeria,Natural Gas (including LNG) - final energy consumption,2006,Terajoules,314246.0,,natural_gas_including_lng
+491214,New Zealand,Electricity - total geothermal production,1997,"Kilowatt-hours, million",2258.0,,geothermal
+1072776,Azerbaijan,Electricity - Consumption by rail,2004,"Kilowatt-hours, million",440.0,,total_electricity
+304566,Uruguay,Fuel oil - Losses,2003,"Metric tons,  thousand",0.0,,fuel_oil
+666566,Dominica,Liquefied petroleum gas (LPG) - Total energy supply,2000,"Metric tons,  thousand",2.0,,liquified_petroleum_gas
+673575,Slovakia,Liquified Petroleum Gas (LPG) - Consumption by construction,2001,"Metric tons,  thousand",2.0,,liquified_petroleum_gas
+1154032,Somalia,From combustible fuels – Main activity,2007,"Kilowatt-hours, million",311.0,,total_electricity
+942916,Serbia and Montenegro,Other oil products n.e.c. - Non-energy uses,2003,"Metric tons,  thousand",0.0,,other_oil_products_n_e_c
+355347,Kenya,Fuelwood - Final consumption,2012,"Cubic metres, thousand",12546.0,1.0,fuelwood
+805742,Turkey,"Natural gas (including LNG) - consumption in agriculture, forestry and fishing",2009,Terajoules,1344.0,,natural_gas_including_lng
+1036385,Seychelles,Electricity - total thermal production,2000,"Kilowatt-hours, million",187.5,,thermal_electricity
+856591,Norway,Of which: biodiesel - Consumption in transport,2010,"Metric tons,  thousand",126.0,,of_which_biodiesel
+347859,Suriname,"Fuelwood - Consumption by other manuf., const. and non-fuel ind.",1991,"Cubic metres, thousand",6.896552000000001,,fuelwood
+497342,Mauritius,"Hard coal - consumption by manufacturing, construction and non-fuel mining industry",2006,"Metric tons,  thousand",22.0,,hard_coal
+365206,Cabo Verde,Fuelwood - Production,1993,"Cubic metres, thousand",112.7,,fuelwood
+38772,Somalia,Bagasse - Total energy supply,1994,"Metric tons,  thousand",59.0,,bagasse
+472113,Rwanda,Gas Oil/ Diesel Oil - Transformation,2014,"Metric tons,  thousand",68.0,1.0,gas_oil_diesel_oil
+168561,Chile,Coking coal - total energy supply,1994,"Metric tons,  thousand",668.0,,coking_coal
+508479,Australia,Hard coal - exports,2007,"Metric tons,  thousand",244390.0,,hard_coal
+179136,Republic of Moldova,Conventional crude oil - production,2002,"Metric tons,  thousand",0.0,,conventional_crude_oil
+655958,China,Liquefied petroleum gas (LPG) - Own use by gas works,2005,"Metric tons,  thousand",861.6,,liquified_petroleum_gas
+680505,Colombia,Liquified Petroleum Gas (LPG) - Final energy consumption,2008,"Metric tons,  thousand",646.0,,liquified_petroleum_gas
+910752,Jamaica,Other kerosene - Final energy consumption,2004,"Metric tons,  thousand",45.0,,other_kerosene
+113052,Greece,Brown coal - Final energy consumption,2000,"Metric tons,  thousand",464.0,,brown_coal
+415091,Luxembourg,"Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing",2009,"Metric tons,  thousand",20.0,,gas_oil_diesel_oil
+871902,Germany,Other bituminous coal - energy industries own use,2000,"Metric tons,  thousand",7.0,,other_bituminous_coal
+1047437,Honduras,Electricity - Consumption by households,2012,"Kilowatt-hours, million",2156.0,,total_electricity
+657281,Chile,Liquefied petroleum gas (LPG) - Production,1991,"Metric tons,  thousand",402.0,,liquified_petroleum_gas
+650875,Brazil,Liquefied petroleum gas (LPG) - Imports,1997,"Metric tons,  thousand",2517.0,,liquified_petroleum_gas
+53514,Romania,Biogases - Transformation in CHP plants - autoproducers,2011,Terajoules,88.0,,biogases
+479678,Uruguay,Gas Oil/ Diesel Oil - Transformation in electricity plants - autoproducers,2010,"Metric tons,  thousand",0.5,,gas_oil_diesel_oil
+752422,Republic of Moldova,Motor Gasoline - Stock changes,2013,"Metric tons,  thousand",0.0,,motor_gasoline
+954754,Slovakia,Other recovered gases - Production,2012,Terajoules,2388.0,,other_recovered_gases
+94014,Colombia,Blast furnace gas - Transformation,2003,Terajoules,1433.0,,blast_furnace_gas
+474787,Canada,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",1991,"Metric tons,  thousand",208.0,,gas_oil_diesel_oil
+60723,"China, Hong Kong SAR",Bitumen - Exports,1995,"Metric tons,  thousand",4.0,,bitumen
+313932,Eritrea,Fuel oil - Stock changes,2001,"Metric tons,  thousand",13.0,,fuel_oil
+13889,Solomon Islands,Aviation gasoline - Consumption in domestic aviation,2007,"Metric tons,  thousand",1.1,1.0,aviation_gasoline
+816884,Brazil,Natural gas (including LNG) - flared and vented,2008,Terajoules,84696.0,,natural_gas_including_lng
+444736,Grenada,Gas Oil/ Diesel Oil - Imports,2008,"Metric tons,  thousand",53.43,,gas_oil_diesel_oil
+815094,Kyrgyzstan,Natural Gas (including LNG) - final energy consumption,2000,Terajoules,7588.0,,natural_gas_including_lng
+637170,Côte d'Ivoire,"Liquefied petroleum gas (LPG) - consumption by other manuf., const. and non-fuel min. ind.",2008,"Metric tons,  thousand",26.0,,liquified_petroleum_gas
+1095014,Mexico,Electricity - Final energy consumption,1993,"Kilowatt-hours, million",106411.0,,total_electricity
+660225,Qatar,Liquefied petroleum gas (LPG) - production from plants,1993,"Metric tons,  thousand",1101.0,,liquified_petroleum_gas
+871866,Czechia,Other bituminous coal - energy industries own use,1995,"Metric tons,  thousand",85.0,,other_bituminous_coal
+481558,Slovenia,Gas Oil/ Diesel Oil - Transformation in electricity plants - main activity producers,1996,"Metric tons,  thousand",3.0,,gas_oil_diesel_oil
+529845,Ireland,"Hard coal - transformation in electricity, CHP and heat plants",1994,"Metric tons,  thousand",2214.0,,hard_coal
+977,Slovakia,Additives and Oxygenates - Receipts from other sources,2011,"Metric tons,  thousand",197.0,,additives_and_oxygenates
+1124460,Albania,"Electricity - Own use by electricity, heat and CHP plants",2014,"Kilowatt-hours, million",0.0,,total_electricity
+733055,Wallis and Futuna Is.,Motor Gasoline - Final consumption,2003,"Metric tons,  thousand",2.017,,motor_gasoline
+1093490,Finland,Electricity - Final energy consumption,2007,"Kilowatt-hours, million",86068.0,,total_electricity
+1132593,Turkey,Electricity - Own use by oil refineries,1993,"Kilowatt-hours, million",1777.0,,total_electricity
+917812,Barbados,Other kerosene - Production,1993,"Metric tons,  thousand",3.0,,other_kerosene
+135633,Réunion,Charcoal - Final consumption,1995,"Metric tons,  thousand",13.782,1.0,charcoal
+932928,Denmark,Other oil products n.e.c. - Consumption by mining and quarrying ,1992,"Metric tons,  thousand",1.0,,other_oil_products_n_e_c
+571273,Canada,Industrial Waste - Final energy consumption,1996,Terajoules,3694.0,,industrial_waste
+78192,Honduras,Bitumen - Total energy supply,1990,"Metric tons,  thousand",11.0,1.0,bitumen
+338449,Syrian Arab Republic,Fuelwood - Consumption by households,2000,"Cubic metres, thousand",18.390805,1.0,fuelwood
+400906,Mauritius,Gas Oil/ Diesel Oil - Consumption by other,2001,"Metric tons,  thousand",2.0,,gas_oil_diesel_oil
+125536,Uganda,Charcoal - Consumption by households,2010,"Metric tons,  thousand",931.47,1.0,charcoal
+655794,Belgium,Liquefied petroleum gas (LPG) - Own use by coal mines,2002,"Metric tons,  thousand",3.0,,liquified_petroleum_gas
+843254,Israel,Natural Gas (including LNG) - transformation in electricity plants - autoproducers,2008,Terajoules,5076.0,,natural_gas_including_lng
+1182416,Dem. Rep. of the Congo,White spirit and special boiling point industrial spirits - Non-energy uses,1999,"Metric tons,  thousand",25.0,,white_spirit_and_special_boiling_point_industrial_spirits
+223840,United Rep. of Tanzania,"Electricity - net installed capacity of electric power plants, self-producer combustible fuels",1992,"Kilowatts,  thousand",20.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+383622,Estonia,Fuelwood - Transformation in electricity plants - autoproducers,1997,"Cubic metres, thousand",2.07991242474001,1.0,fuelwood
+287957,Fiji,Fuel oil - Exports,2011,"Metric tons,  thousand",0.0388,,fuel_oil
+1012664,Slovakia,Refinery gas - Energy industries own use,1997,"Metric tons,  thousand",0.0,,refinery_gas
+861559,Sweden,"Other bituminous coal - consumption by agriculture, forestry and fishing",1995,"Metric tons,  thousand",5.0,,other_bituminous_coal
+560641,Germany,Heat - Own use by oil refineries,2009,Terajoules,3324.0,,heat
+271762,Lithuania,Fuel oil - Consumption by other,2003,"Metric tons,  thousand",7.0,,fuel_oil
+282026,Turkey,Fuel oil - Consumption in rail,1996,"Metric tons,  thousand",25.0,,fuel_oil
+1166281,United Kingdom,Nuclear – Main activity,2000,"Kilowatt-hours, million",85063.0,,total_electricity
+204447,"Korea, Republic of",Electricity generating capacity - From other sources - Autoproducers,2014,"Kilowatts,  thousand",16.0,,electricity_net_installed_capacity_of_electric_power_plants
+95297,Belgium,"Blast Furnace Gas - Transformation in electricity, CHP and heat plants",2014,Terajoules,16739.0,,blast_furnace_gas
+624383,Chad,Liquefied petroleum gas (LPG) - Consumption by households,1991,"Metric tons,  thousand",0.0,,liquified_petroleum_gas
+127335,Fiji,Charcoal - Consumption by other,1995,"Metric tons,  thousand",1.94,1.0,charcoal
+248558,Latvia,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",2002,"Kilowatts,  thousand",2141.0,,electricity_net_installed_capacity_of_electric_power_plants
+994887,Croatia,Petroleum Coke - Final energy consumption,2012,"Metric tons,  thousand",94.0,,petroleum_coke
+505610,United Kingdom,Hard coal - consumption by textile and leather industry,2005,"Metric tons,  thousand",71.0,,hard_coal
+228880,Morocco,"Electricity - total net installed capacity of electric power plants, autoproducer",2005,"Kilowatts,  thousand",272.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+982199,Latvia,Peat - consumption by wood and wood products,2008,"Metric tons,  thousand",0.0,,peat
+169177,Algeria,Coking coal - transformation,2010,"Metric tons,  thousand",0.0,,coking_coal
+47964,Lithuania,"Biogases - Consumption by other manuf., const. and non-fuel ind.",2006,Terajoules,6.0,,biogases
+607665,Micronesia (Fed. States of),Kerosene-type Jet Fuel - Total energy supply,2011,"Metric tons,  thousand",3.3,1.0,kerosene_type_jet_fuel
+80579,Japan,Bitumen - Transformation in coke ovens,2007,"Metric tons,  thousand",137.0,,bitumen
+680979,Finland,Liquified Petroleum Gas (LPG) - Final energy consumption,2014,"Metric tons,  thousand",268.0,,liquified_petroleum_gas
+844658,Romania,Natural Gas (including LNG) - transformation in electricity plants - main activity producers,1993,Terajoules,47496.0,,natural_gas_including_lng
+786979,Germany,Natural gas (including LNG) - consumption by households,2004,Terajoules,1119757.0,,natural_gas_including_lng
+955181,Sweden,Other recovered gases - Transformation,2009,Terajoules,943.0,,other_recovered_gases
+879693,United States,Other bituminous coal - total energy supply,2003,"Metric tons,  thousand",478574.0,,other_bituminous_coal
+43927,Czechia,Biodiesel - Production,1994,"Metric tons,  thousand",9.0,,biodiesel
+1087948,Brunei Darussalam,Electricity - Energy industries own use,2007,"Kilowatt-hours, million",367.0,,total_electricity
+542199,Switzerland,Heat - Consumption by construction,2004,Terajoules,18.0,,heat
+996425,Lithuania,Petroleum coke - Imports,1999,"Metric tons,  thousand",0.0,,petroleum_coke
+893097,Poland,"Other kerosene - Consumption by manufacturing, construction and non-fuel industry",1991,"Metric tons,  thousand",1.0,,other_kerosene
+927082,Nigeria,Other kerosene - Total energy supply,2007,"Metric tons,  thousand",1428.0,,other_kerosene
+69981,Malaysia,Bitumen - Non-energy uses,2006,"Metric tons,  thousand",628.0,,bitumen
+512505,Belarus,Hard coal - final energy consumption,2002,"Metric tons,  thousand",115.0,,hard_coal
+731885,Sao Tome and Principe,Motor Gasoline - Final consumption,2006,"Metric tons,  thousand",6.5,,motor_gasoline
+764207,Switzerland,Municipal Wastes - Transformation in CHP plants - autoproducers,1997,Terajoules,20122.0,,municipal_wastes
+525035,"China, Hong Kong SAR",Hard coal - transformation,1993,"Metric tons,  thousand",11828.0,,hard_coal
+878181,Norway,Other bituminous coal - stock changes,1990,"Metric tons,  thousand",13.0,,other_bituminous_coal
+1007959,United States,Feedstocks - transfers and recycled products,2001,"Metric tons,  thousand",-896.0,,refinery_feedstocks
+1160472,Afghanistan,Hydro – Autoproducer,2001,"Kilowatt-hours, million",15.0,1.0,total_electricity
+1114734,Portugal,Electricity - Losses,2001,"Kilowatt-hours, million",4057.0,,total_electricity
+134085,Gambia,Charcoal - Final consumption,2011,"Metric tons,  thousand",60.146,1.0,charcoal
+1030233,"Korea, Republic of",Sub-bituminous coal - Stock changes,1993,"Metric tons,  thousand",-97.0,,sub_bituminous_coal
+214319,Chile,"Electricity - net installed capacity of electric power plants, public hydro",2010,"Kilowatts,  thousand",5383.0,,electricity_net_installed_capacity_of_electric_power_plants
+380339,Mexico,Fuelwood - Transformation in charcoal plants,2009,"Cubic metres, thousand",846.18,1.0,fuelwood
+526702,Germany,Hard coal - transformation in blast furnaces,2012,"Metric tons,  thousand",4157.0,,hard_coal
+184115,"Korea, Republic of",Conventional crude oil - total energy supply,1998,"Metric tons,  thousand",112222.0,,conventional_crude_oil
+961035,Bolivia (Plur. State of),Vegetal waste - Final consumption,1992,Terajoules,3940.0,1.0,other_vegetal_material_and_residues
+386995,Mexico,Gas Oil/ Diesel Oil - Consumption by commerce and public services,2006,"Metric tons,  thousand",96.0,,gas_oil_diesel_oil
+323432,New Caledonia,Fuel oil - Transformation,1991,"Metric tons,  thousand",180.0,1.0,fuel_oil
+1146175,Solomon Islands,From combustible fuels – Autoproducer,2014,"Kilowatt-hours, million",8.0,1.0,total_electricity
+739694,Denmark,Motor Gasoline - Imports,1995,"Metric tons,  thousand",750.0,,motor_gasoline
+662294,Paraguay,Liquefied petroleum gas (LPG) - production from refineries,1990,"Metric tons,  thousand",11.0,,liquified_petroleum_gas
+1097673,Bangladesh,Electricity - Gross demand,2008,"Kilowatt-hours, million",32165.0,,total_electricity
+1102076,Sweden,Electricity - Gross demand,1994,"Kilowatt-hours, million",133622.0,,total_electricity
+1080750,Latvia,"Electricity - Consumption in agriculture, forestry and fishing",2010,"Kilowatt-hours, million",139.0,,total_electricity
+239351,Rwanda,"Electricity - total net installed capacity of electric power plants, hydro",1999,"Kilowatts,  thousand",26.5,,electricity_net_installed_capacity_of_electric_power_plants
+999283,Slovakia,Petroleum coke - Production,2013,"Metric tons,  thousand",56.0,,petroleum_coke
+612560,Poland,"Lignite - Consumption by manufacturing, construction and non-fuel industry",2000,"Metric tons,  thousand",48.0,,lignite
+1128615,Samoa,"Electricity - Own use by electricity, heat and CHP plants",2010,"Kilowatt-hours, million",0.5,,total_electricity
+148804,Morocco,Charcoal - Total energy supply,2014,"Metric tons,  thousand",112.76,,charcoal
+539758,Slovakia,Geothermal – Main activity,2002,Terajoules,90.0,,heat
+118574,Slovenia,Brown coal - Transformation in autoproducer CHP plants,2009,"Metric tons,  thousand",23.0,,brown_coal
+413363,Germany,Gas Oil/ Diesel Oil - Consumption by wood and wood products ,2004,"Metric tons,  thousand",36.0,,gas_oil_diesel_oil
+696216,Maldives,Lubricants - Non-energy uses,2011,"Metric tons,  thousand",2.6,1.0,lubricants
+160711,Australia,Coke Oven Gas - Total energy supply,2003,Terajoules,22642.0,,coke_oven_coke
+673574,Slovakia,Liquified Petroleum Gas (LPG) - Consumption by construction,2002,"Metric tons,  thousand",2.0,,liquified_petroleum_gas
+374626,Belarus,Fuelwood - Transformation,2011,"Cubic metres, thousand",2500.82101859661,,fuelwood
+371951,Kyrgyzstan,Fuelwood - Total energy supply,1996,"Cubic metres, thousand",16.420361,,fuelwood
+924357,Azerbaijan,Other kerosene - Total energy supply,2010,"Metric tons,  thousand",1.0,,other_kerosene
+581130,Cyprus,Kerosene-type Jet Fuel - Consumption not elsewhere specified (other),2004,"Metric tons,  thousand",0.0,,kerosene_type_jet_fuel
+755704,Kuwait,Motor Gasoline - Total energy supply,1995,"Metric tons,  thousand",1401.0,,motor_gasoline
+196430,Egypt,Crude petroleum - reserves,2002,"Metric tons,  thousand",492000.0,,conventional_crude_oil
+1096985,United Rep. of Tanzania,Electricity - Final energy consumption,2014,"Kilowatt-hours, million",4976.0,,total_electricity
+590174,Iceland,Kerosene-type Jet Fuel - Imports,2001,"Metric tons,  thousand",117.0,,kerosene_type_jet_fuel
+966656,Finland,Vegetal waste - Total energy supply,2012,Terajoules,702.0,,other_vegetal_material_and_residues
+1001729,China,Petroleum coke - Total energy supply,2010,"Metric tons,  thousand",18281.7,,petroleum_coke
+855580,Sweden,Electricity - total nuclear production,1993,"Kilowatt-hours, million",61395.0,,nuclear_electricity
+701840,Romania,Lubricants - Stock changes,2010,"Metric tons,  thousand",0.0,,lubricants
+473662,United Kingdom,Gas Oil/ Diesel Oil - Transformation in CHP plants - autoproducers,2008,"Metric tons,  thousand",11.0,,gas_oil_diesel_oil
+1104784,Greece,Electricity - Gross production,1997,"Kilowatt-hours, million",43506.0,,total_electricity
+631304,Benin,Liquefied petroleum gas (LPG) - Consumption by other,2002,"Metric tons,  thousand",8.0,,liquified_petroleum_gas
+1005272,United States,Feedstocks - imports,2013,"Metric tons,  thousand",33478.0,,refinery_feedstocks
+651224,Colombia,Liquefied petroleum gas (LPG) - Imports,1993,"Metric tons,  thousand",72.0,,liquified_petroleum_gas
+1088983,Romania,Electricity - Energy industries own use,2005,"Kilowatt-hours, million",7662.0,,total_electricity
+635829,Honduras,Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified,1996,"Metric tons,  thousand",22.0,,liquified_petroleum_gas
+149007,Nicaragua,Charcoal - Total energy supply,2007,"Metric tons,  thousand",8.0,,charcoal
+1011880,Iraq,Refinery gas - Energy industries own use,1997,"Metric tons,  thousand",456.0,,refinery_gas
+568977,Latvia,Industrial Waste - Consumption by non-metallic minerals ,2008,Terajoules,210.0,,industrial_waste
+942819,Poland,Other oil products n.e.c. - Non-energy uses,1996,"Metric tons,  thousand",104.0,,other_oil_products_n_e_c
+32152,Costa Rica,Bagasse - Final consumption,2014,"Metric tons,  thousand",1233.0842646430401,,bagasse
+701437,Greece,Lubricants - Stock changes,2000,"Metric tons,  thousand",6.0,,lubricants
+576341,Croatia,Kerosene-type Jet Fuel - Consumption by domestic aviation,2011,"Metric tons,  thousand",10.0,,kerosene_type_jet_fuel
+1028102,Romania,Sub-bituminous coal - Consumption by other,1998,"Metric tons,  thousand",13.0,,sub_bituminous_coal
+1084253,Burundi,Electricity - Consumption not elsewhere specified (other),2012,"Kilowatt-hours, million",23.8,1.0,total_electricity
+183183,Colombia,Conventional crude oil - total energy supply,1999,"Metric tons,  thousand",16027.0,,conventional_crude_oil
+96492,Netherlands,Blast Furnace Gas - Transformation in electricity plants - main activity producers,2009,Terajoules,10532.0,,blast_furnace_gas
+1081606,Sudan (former),"Electricity - Consumption in agriculture, forestry and fishing",2000,"Kilowatt-hours, million",39.0,,total_electricity
+681101,Gabon,Liquified Petroleum Gas (LPG) - Final energy consumption,1992,"Metric tons,  thousand",12.0,,liquified_petroleum_gas
+715950,Kiribati,Motor Gasoline - Consumption by transport,2002,"Metric tons,  thousand",2.5,1.0,motor_gasoline
+6436,Germany,"Anthracite - consumption by paper, pulp and print",2011,"Metric tons,  thousand",0.0,,anthracite
+970574,"China, Hong Kong SAR",Paraffin waxes - Final consumption,2010,"Metric tons,  thousand",2.0,1.0,paraffin_waxes
+460846,Greece,Gas Oil/ Diesel Oil - Stock changes,2006,"Metric tons,  thousand",204.0,,gas_oil_diesel_oil
+792774,Pakistan,"Natural gas (including LNG) - consumption by manufacturing, construction and non-fuel industry",2006,Terajoules,367060.13700000005,,natural_gas_including_lng
+967219,Pakistan,Vegetal waste - Total energy supply,2001,Terajoules,131675.0,,other_vegetal_material_and_residues
+1113465,"Korea, Republic of",Electricity - Losses,2005,"Kilowatt-hours, million",13728.0,,total_electricity
+290464,Chile,Fuel oil - Final consumption,2007,"Metric tons,  thousand",1173.0,,fuel_oil
+299792,Kenya,Fuel oil - Imports,1993,"Metric tons,  thousand",0.0,,fuel_oil
+955437,Japan,"Other recovered gases - Transformation in electricity, CHP and heat plants",2001,Terajoules,29099.0,,other_recovered_gases
+968157,Netherlands,Vegetal waste - Transformation,2007,Terajoules,5680.0,1.0,other_vegetal_material_and_residues
+441758,Slovenia,Gas Oil/ Diesel Oil - Final energy consumption,1999,"Metric tons,  thousand",1256.0,,gas_oil_diesel_oil
+581307,Micronesia (Fed. States of),Kerosene-type Jet Fuel - Consumption not elsewhere specified (other),1998,"Metric tons,  thousand",0.5,1.0,kerosene_type_jet_fuel
+499127,Austria,Hard coal - consumption by non-metallic minerals industry,1999,"Metric tons,  thousand",131.0,,hard_coal
+1162751,Ecuador,Hydro – Main activity,1991,"Kilowatt-hours, million",5075.0,,total_electricity
+189394,Austria,Conventional crude oil - transformation in oil refineries,1993,"Metric tons,  thousand",8522.0,,conventional_crude_oil
+84591,Finland,Black Liquor - Transformation in electricity plants - autoproducers,2010,Terajoules,2665.0,1.0,black_liquor
+1113998,Mexico,Electricity - Losses,2008,"Kilowatt-hours, million",41409.0,,total_electricity
+502548,Estonia,"Hard coal - consumption by other manuf., const. and non-fuel ind.",1998,"Metric tons,  thousand",11.0,,hard_coal
+63803,Libya,Bitumen - Final consumption,2014,"Metric tons,  thousand",26.0,,bitumen
+427858,French Polynesia,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (transport),2004,"Metric tons,  thousand",29.4761,1.0,gas_oil_diesel_oil
+776208,Libya,Naphtha - production from refineries,1997,"Metric tons,  thousand",1306.0,,naphtha
+35236,Zimbabwe,Bagasse - Final energy consumption,1996,"Metric tons,  thousand",1098.0,,bagasse
+161640,Austria,Coke Oven Gas - Transformation,2004,Terajoules,2436.0,,coke_oven_coke
+461120,Jamaica,Gas Oil/ Diesel Oil - Stock changes,2001,"Metric tons,  thousand",0.0,,gas_oil_diesel_oil
+671645,Uruguay,Liquefied petroleum gas (LPG) - Transformation in gas works,1994,"Metric tons,  thousand",0.0,,liquified_petroleum_gas
+382897,Hungary,"Fuelwood - Transformation in electricity, CHP and heat plants",1990,"Cubic metres, thousand",31.855501,1.0,fuelwood
+505346,Estonia,Hard coal - consumption by textile and leather industry,2003,"Metric tons,  thousand",1.0,,hard_coal
+281418,Romania,"Fuel oil - Consumption in agriculture, forestry and fishing",1993,"Metric tons,  thousand",2.0,,fuel_oil
+1060272,Germany,Electricity - Consumption by non-metallic minerals,1993,"Kilowatt-hours, million",10581.0,,total_electricity
+35068,Swaziland,Bagasse - Final energy consumption,1990,"Metric tons,  thousand",869.914484,1.0,bagasse
+192530,Colombia,"Crude petroleum - consumption by other manufacturing, construction and non-fuel mining industry",1990,"Metric tons,  thousand",638.0,1.0,conventional_crude_oil
+1009316,Germany,Feedstocks - transformation in oil refineries,1996,"Metric tons,  thousand",11759.0,,refinery_feedstocks
+843020,Chile,Natural Gas (including LNG) - transformation in electricity plants - autoproducers,2012,Terajoules,3426.0,,natural_gas_including_lng
+685772,Hungary,Lubricants - Exports,2007,"Metric tons,  thousand",97.0,,lubricants
+84369,Czechia,Black Liquor - Transformation in CHP plants - main activity producers,2002,Terajoules,0.0,1.0,black_liquor
+830445,Turkey,Natural gas (including LNG) - production,2008,Terajoules,38965.0,,natural_gas_including_lng
+664949,Slovakia,Liquefied petroleum gas (LPG) - Stock changes,2001,"Metric tons,  thousand",5.0,,liquified_petroleum_gas
+701578,Latvia,Lubricants - Stock changes,2002,"Metric tons,  thousand",0.0,,lubricants
+702424,Belarus,Lubricants - Total energy supply,1994,"Metric tons,  thousand",163.0,,lubricants
+1054883,Greenland,"Electricity - Consumption by manufacturing, construction and non-fuel industry",2010,"Kilowatt-hours, million",63.7149,,total_electricity
+435959,Palau,Gas Oil/ Diesel Oil - Final consumption,1994,"Metric tons,  thousand",2.0,1.0,gas_oil_diesel_oil
+861432,Latvia,"Other bituminous coal - consumption by agriculture, forestry and fishing",2007,"Metric tons,  thousand",2.0,,other_bituminous_coal
+33624,Barbados,Bagasse - Final energy consumption,1998,"Metric tons,  thousand",152.0,,bagasse
+471018,Libya,Gas Oil/ Diesel Oil - Transformation,2014,"Metric tons,  thousand",3328.0,,gas_oil_diesel_oil
+93053,Finland,Blast furnace gas - Total energy supply,1997,Terajoules,15970.0,,blast_furnace_gas
+888720,Dominican Republic,Other kerosene - Consumption by households,2002,"Metric tons,  thousand",11.33,,other_kerosene
+879819,Belarus,Other bituminous coal - transformation,2008,"Metric tons,  thousand",33.0,,other_bituminous_coal
+1001929,Finland,Petroleum coke - Total energy supply,1998,"Metric tons,  thousand",40.0,,petroleum_coke
+856137,Finland,Of which: biodiesel - Consumption by road,2008,"Metric tons,  thousand",10.0,,of_which_biodiesel
+489319,Estonia,Gasworks Gas - Production,2006,Terajoules,5053.0,,gasworks_gas
+858281,Portugal,"Of which: biodiesel - Transformation in electricity, CHP and heat plants",2013,"Metric tons,  thousand",1.0,,of_which_biodiesel
+475761,Greece,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",2011,"Metric tons,  thousand",301.0,,gas_oil_diesel_oil
+19686,Cuba,Aviation gasoline - Imports,2010,"Metric tons,  thousand",5.0,,aviation_gasoline
+1135904,Pakistan,"Electricity - total production, autoproducer",2012,"Kilowatt-hours, million",40174.0,1.0,total_electricity
+327417,Hungary,"Fuel oil - Transformation in electricity, CHP and heat plants",2006,"Metric tons,  thousand",90.0,,fuel_oil
+542267,Belgium,Heat - Consumption by food and tobacco,2011,Terajoules,1647.0,,heat
+1094687,Lithuania,Electricity - Final energy consumption,1999,"Kilowatt-hours, million",6543.0,,total_electricity
+183210,Congo,Conventional crude oil - total energy supply,1997,"Metric tons,  thousand",710.0,,conventional_crude_oil
+229344,Portugal,"Electricity - total net installed capacity of electric power plants, autoproducer",2003,"Kilowatts,  thousand",1223.0,,electricity_net_installed_capacity_of_electric_power_plants
+623599,Algeria,Liquefied petroleum gas (LPG) - Consumption by households,1994,"Metric tons,  thousand",1408.0,,liquified_petroleum_gas
+132042,Madagascar,Charcoal - Exports,2013,"Metric tons,  thousand",0.063,,charcoal
+321225,Azerbaijan,Fuel oil - Transformation,2011,"Metric tons,  thousand",83.0,,fuel_oil
+17925,Iceland,Aviation gasoline - Final energy consumption,2001,"Metric tons,  thousand",1.0,,aviation_gasoline
+487115,South Africa,Gasworks Gas - Consumption not elsewhere specified (industry),2006,Terajoules,6108.0,,gasworks_gas
+998317,Spain,Petroleum coke - Own use by oil refineries,2002,"Metric tons,  thousand",182.0,,petroleum_coke
+236604,Armenia,"Electricity - total net installed capacity of electric power plants, hydro",2003,"Kilowatts,  thousand",1170.0,,electricity_net_installed_capacity_of_electric_power_plants
+100333,Czechia,Brown Coal Briquettes - Final energy consumption,2008,"Metric tons,  thousand",151.0,,brown_coal_briquettes
+540075,Canada,"Heat - Consumption by agriculture, forestry and fishing",1993,Terajoules,180.0,,heat
+477673,Serbia and Montenegro,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",2002,"Metric tons,  thousand",0.0,,gas_oil_diesel_oil
+805712,Switzerland,"Natural gas (including LNG) - consumption in agriculture, forestry and fishing",2006,Terajoules,1700.0,,natural_gas_including_lng
+1016839,Brazil,Refinery gas - Production,1999,"Metric tons,  thousand",3225.188652,,refinery_gas
+1169959,Estonia,Wind – Autoproducer,2004,"Kilowatt-hours, million",1.0,,total_electricity
+802759,Indonesia,Natural gas (including LNG) - consumption by transport,2007,Terajoules,302.0,,natural_gas_including_lng
+995902,Brazil,Petroleum coke - Imports,1996,"Metric tons,  thousand",0.0,,petroleum_coke
+361213,Peru,Fuelwood - Final energy consumption,1995,"Cubic metres, thousand",7601.0,1.0,fuelwood
+186141,Belgium,Conventional crude oil - transformation,2001,"Metric tons,  thousand",32055.0,,conventional_crude_oil
+612935,France,Lignite - Consumption by non-ferrous metals industry,1994,"Metric tons,  thousand",30.0,,lignite
+1140369,Mauritius,"Electricity - total production, main activity",1991,"Kilowatt-hours, million",613.0,,total_electricity
+53380,Latvia,Biogases - Transformation in CHP plants - autoproducers,2010,Terajoules,193.0,,biogases
+841183,Gabon,"Natural gas (including LNG) - transformation in electricity, CHP and heat plants",2000,Terajoules,4345.0,,natural_gas_including_lng
+81451,Hungary,"Black Liquor - Consumption by other manuf., const. and non-fuel ind.",2001,Terajoules,441.0,1.0,black_liquor
+357811,Zambia,Fuelwood - Final consumption,1994,"Cubic metres, thousand",10125.889436,,fuelwood
+1037310,United Rep. of Tanzania,Electricity - total thermal production,2007,"Kilowatt-hours, million",1658.0,,thermal_electricity
+585261,Republic of Moldova,Kerosene-type Jet Fuel - Final consumption,2012,"Metric tons,  thousand",0.0,,kerosene_type_jet_fuel
+1017395,Indonesia,Refinery gas - Production,1998,"Metric tons,  thousand",697.0,,refinery_gas
+589541,Eritrea,Kerosene-type Jet Fuel - Imports,2002,"Metric tons,  thousand",13.0,,kerosene_type_jet_fuel
+58134,Netherlands,Biogasoline - Final energy consumption,2010,"Metric tons,  thousand",208.0,,biogasoline
+332139,United Kingdom,Fuel oil - Transformation in heat plants - autoproducers,2002,"Metric tons,  thousand",227.0,,fuel_oil
+1124020,Australia,Electricity - Own use by coke ovens,2000,"Kilowatt-hours, million",143.0,,total_electricity
+500086,United States,Hard coal - consumption by non-metallic minerals industry,2004,"Metric tons,  thousand",11053.0,,hard_coal
+108009,United States,Brown coal - consumption by Other,1996,"Metric tons,  thousand",1382.0,,brown_coal
+184990,Slovakia,Conventional crude oil - total energy supply,2006,"Metric tons,  thousand",5641.0,,conventional_crude_oil
+553668,Belgium,Heat - Gross demand,2014,Terajoules,27181.0,,heat
+997631,Slovenia,Petroleum coke - Non-energy uses,2013,"Metric tons,  thousand",34.0,,petroleum_coke
+578724,Romania,"Kerosene-type Jet Fuel - Consumption by other manuf., const. and non-fuel min. ind.",2014,"Metric tons,  thousand",1.0,,kerosene_type_jet_fuel
+878013,Israel,Other bituminous coal - stock changes,1992,"Metric tons,  thousand",428.0,,other_bituminous_coal
+571509,Portugal,Industrial Waste - Final energy consumption,2008,Terajoules,1619.0,,industrial_waste
+971800,Bulgaria,Paraffin waxes - Imports,1995,"Metric tons,  thousand",1.0,,paraffin_waxes
+950426,Madagascar,Other oil products n.e.c. - Total energy supply,1994,"Metric tons,  thousand",8.0,1.0,other_oil_products_n_e_c
+562404,Portugal,Heat production - Main activity total,1999,Terajoules,1950.0,,heat
+946358,Bolivia (Plur. State of),Other oil products n.e.c. - production from refineries,2009,"Metric tons,  thousand",94.0,,other_oil_products_n_e_c
+723083,Morocco,Motor Gasoline - Consumption in road,1993,"Metric tons,  thousand",402.0,,motor_gasoline
+679830,Bahamas,Liquified Petroleum Gas (LPG) - Final energy consumption,1992,"Metric tons,  thousand",15.0,1.0,liquified_petroleum_gas
+72662,Neth. Antilles (former),Bitumen - Production,2007,"Metric tons,  thousand",1128.0,,bitumen
+702421,Belarus,Lubricants - Total energy supply,1997,"Metric tons,  thousand",89.0,,lubricants
+19027,Tonga,Aviation gasoline - Final energy consumption,1992,"Metric tons,  thousand",0.012,1.0,aviation_gasoline
+508572,Bhutan,Hard coal - exports,2006,"Metric tons,  thousand",65.545,,hard_coal
+141112,Faeroe Islands,Charcoal - Imports,1995,"Metric tons,  thousand",0.01,,charcoal
+1131778,Denmark,Electricity - Own use by oil refineries,2009,"Kilowatt-hours, million",320.0,,total_electricity
+1017148,Dominican Republic,Refinery gas - Production,2002,"Metric tons,  thousand",15.39,,refinery_gas
+925980,Hungary,Other kerosene - Total energy supply,1995,"Metric tons,  thousand",90.0,,other_kerosene
+1122578,Turkmenistan,Electricity - Other energy industry own use,2006,"Kilowatt-hours, million",34.0,,total_electricity
+390349,Indonesia,Gas Oil/ Diesel Oil - Consumption by households,2013,"Metric tons,  thousand",396.0,,gas_oil_diesel_oil
+147892,Guinea,Charcoal - Total energy supply,1990,"Metric tons,  thousand",192.32,,charcoal
+448806,Greece,Gas Oil/ Diesel Oil - International marine bunkers,1999,"Metric tons,  thousand",706.0,,gas_oil_diesel_oil
+641852,Hungary,Liquefied petroleum gas (LPG) - Consumption in road,2007,"Metric tons,  thousand",29.0,,liquified_petroleum_gas
+770087,Singapore,Naphtha - Final consumption,2005,"Metric tons,  thousand",6509.0,,naphtha
+856368,United Kingdom,Of which: biodiesel - Consumption by road,2004,"Metric tons,  thousand",18.0,,of_which_biodiesel
+782625,France,Natural gas (including LNG) - consumption by chemical and petrochemical,2013,Terajoules,109524.0,,natural_gas_including_lng
+917588,Venezuela (Bolivar. Rep.),Other kerosene - Own use by oil refineries,1998,"Metric tons,  thousand",0.0,,other_kerosene
+541075,Russian Federation,Heat - Consumption by chemical and petrochemical,2008,Terajoules,455533.0,,heat
+264888,Barbados,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",1996,"Metric tons,  thousand",10.0,,fuel_oil
+552678,Finland,Heat - Final energy consumption,2004,Terajoules,172922.0,,heat
+454305,China,Gas Oil/ Diesel Oil - Production,1996,"Metric tons,  thousand",44190.0,,gas_oil_diesel_oil
+1119551,Mozambique,Electricity - net production,1995,"Kilowatt-hours, million",390.0,,total_electricity
+874111,Canada,Other bituminous coal - final energy consumption,2005,"Metric tons,  thousand",873.0,,other_bituminous_coal
+878701,Croatia,Other bituminous coal - total energy supply,2007,"Metric tons,  thousand",1081.0,,other_bituminous_coal
+607909,New Caledonia,Kerosene-type Jet Fuel - Total energy supply,2004,"Metric tons,  thousand",3.5,,kerosene_type_jet_fuel
+1094240,Italy,Electricity - Final energy consumption,1995,"Kilowatt-hours, million",238272.0,,total_electricity
+455685,Panama,Gas Oil/ Diesel Oil - Production,1999,"Metric tons,  thousand",593.0,,gas_oil_diesel_oil
+913035,Venezuela (Bolivar. Rep.),Other kerosene - Final energy consumption,1998,"Metric tons,  thousand",84.0,,other_kerosene
+389494,Slovenia,Gas Oil/ Diesel Oil - Consumption by food and tobacco ,1994,"Metric tons,  thousand",11.0,,gas_oil_diesel_oil
+958288,Greece,Vegetal waste - Consumption by non-metallic minerals ,2008,Terajoules,123.0,1.0,other_vegetal_material_and_residues
+615358,Romania,Lignite - Consumption not elsewhere specified (industry),1993,"Metric tons,  thousand",1.0,,lignite
+682358,Namibia,Liquified Petroleum Gas (LPG) - Final energy consumption,2005,"Metric tons,  thousand",8.0,,liquified_petroleum_gas
+512278,Yemen,Hard coal - final consumption,2014,"Metric tons,  thousand",189.0,,hard_coal
+523078,"Korea, Dem.Ppl's.Rep.",Hard coal - total energy supply,1998,"Metric tons,  thousand",18374.0,,hard_coal
+454903,Indonesia,Gas Oil/ Diesel Oil - Production,1999,"Metric tons,  thousand",13984.0,,gas_oil_diesel_oil
+53400,Luxembourg,Biogases - Transformation in CHP plants - autoproducers,2006,Terajoules,121.0,,biogases
+459898,Argentina,Gas Oil/ Diesel Oil - Stock changes,1992,"Metric tons,  thousand",155.0,,gas_oil_diesel_oil
+304211,United States,Fuel oil - International marine bunkers,2013,"Metric tons,  thousand",14673.0,,fuel_oil
+913699,Chad,Other kerosene - Imports,2008,"Metric tons,  thousand",1.0,1.0,other_kerosene
+490585,Estonia,Gasworks Gas - Transformation in CHP plants - main activity producers,1992,Terajoules,3869.0,,gasworks_gas
+1003442,Spain,Petroleum coke - Transformation,2011,"Metric tons,  thousand",424.0,,petroleum_coke
+22079,Guatemala,Aviation gasoline - International aviation bunkers,2007,"Metric tons,  thousand",2.0,,aviation_gasoline
+977901,Switzerland,Patent fuel - consumption by households,1998,"Metric tons,  thousand",1.0,,patent_fuel
+643438,Paraguay,Liquefied petroleum gas (LPG) - Energy industries own use,1998,"Metric tons,  thousand",0.04,,liquified_petroleum_gas
+333474,Honduras,Fuelwood - Consumption by commerce and public services,1993,"Cubic metres, thousand",2783.0,1.0,fuelwood
+822750,United Rep. of Tanzania,Natural gas (including LNG) - Memo:Gross production,2003,Terajoules,0.0,,natural_gas_including_lng
+245409,Ukraine,"Electricity - total net installed capacity of electric power plants, main activity",1994,"Kilowatts,  thousand",50015.0,,electricity_net_installed_capacity_of_electric_power_plants
+872914,Bulgaria,Other bituminous coal - final consumption,2014,"Metric tons,  thousand",232.0,,other_bituminous_coal
+16544,Russian Federation,Aviation gasoline - Final consumption,2005,"Metric tons,  thousand",37.0,,aviation_gasoline
+154781,Sweden,Coke Oven Gas - Consumption by mining and quarrying ,2001,Terajoules,413.0,,coke_oven_coke
+233487,Malta,"Electricity - total net installed capacity of electric power plants, combustible fuels",2011,"Kilowatts,  thousand",574.0,,electricity_net_installed_capacity_of_electric_power_plants
+884191,Estonia,Other bituminous coal - transformation in main activity producer heat plants,1999,"Metric tons,  thousand",9.0,,other_bituminous_coal
+1042008,Peru,Electricity - Consumption by commercial and public services,1991,"Kilowatt-hours, million",365.0,1.0,total_electricity
+382852,Germany,"Fuelwood - Transformation in electricity, CHP and heat plants",2008,"Cubic metres, thousand",12195.2928297756,1.0,fuelwood
+1009124,Bulgaria,Feedstocks - transformation in oil refineries,2000,"Metric tons,  thousand",34.0,,refinery_feedstocks
+637723,Iran (Islamic Rep. of),"Liquefied petroleum gas (LPG) - consumption by other manuf., const. and non-fuel min. ind.",1990,"Metric tons,  thousand",67.0,,liquified_petroleum_gas
+337715,Portugal,Fuelwood - Consumption by households,2011,"Cubic metres, thousand",4387.162868,1.0,fuelwood
+335382,Central African Rep.,Fuelwood - Consumption by households,1992,"Cubic metres, thousand",3250.0,1.0,fuelwood
+158640,Other Asia,Coke Oven Gas - Own use by blast furnaces,2013,Terajoules,585.0,,coke_oven_coke
+643793,Austria,Liquefied petroleum gas (LPG) - Exports,1992,"Metric tons,  thousand",40.0,,liquified_petroleum_gas
+394400,Guatemala,"Gas Oil/ Diesel Oil - Consumption by manufacturing, construction and non-fuel mining industry",2004,"Metric tons,  thousand",83.0,,gas_oil_diesel_oil
+202570,Greece,Direct use of solar thermal heat - Consumption by other,2009,Terajoules,7632.0,,direct_use_of_solar_thermal_heat
+1027095,New Zealand,Sub-bituminous coal - Consumption by energy sector,1995,"Metric tons,  thousand",17.0,,sub_bituminous_coal
+366520,Ireland,Fuelwood - Production,2008,"Cubic metres, thousand",564.422551,,fuelwood
+473632,Switzerland,Gas Oil/ Diesel Oil - Transformation in CHP plants - autoproducers,2013,"Metric tons,  thousand",4.0,,gas_oil_diesel_oil
+896790,Other Asia,Other kerosene - Consumption by other,1998,"Metric tons,  thousand",22.0,,other_kerosene
+966862,Japan,Vegetal waste - Total energy supply,2013,Terajoules,129642.0,,other_vegetal_material_and_residues
+552583,Croatia,Heat - Final energy consumption,1999,Terajoules,9877.0,,heat
+1117199,China,Electricity - net production,2006,"Kilowatt-hours, million",2635068.0,,total_electricity
+1022751,Trinidad and Tobago,Refinery gas - Total energy supply,1995,"Metric tons,  thousand",138.0,,refinery_gas
+321120,Argentina,Fuel oil - Transformation,2011,"Metric tons,  thousand",2677.0,,fuel_oil
+883369,Switzerland,Other bituminous coal - transformation in main activity producer CHP plants,1991,"Metric tons,  thousand",3.0,,other_bituminous_coal
+789770,Japan,Natural gas (including LNG) - consumption by iron and steel,2005,Terajoules,77084.0,,natural_gas_including_lng
+251723,Other Asia,"Electricity - total net installed capacity of electric power plants, nuclear",2007,"Kilowatts,  thousand",5144.0,,electricity_net_installed_capacity_of_electric_power_plants
+9500,Japan,Anthracite - transformation in briquetting plants,1997,"Metric tons,  thousand",71.0,,anthracite
+569871,Austria,"Industrial Waste - Consumption by paper, pulp and print",2007,Terajoules,130.0,,industrial_waste
+578253,Greenland,Kerosene-type Jet Fuel - Consumption by mining and quarrying ,2010,"Metric tons,  thousand",0.3922,,kerosene_type_jet_fuel
+1129989,Australia,Electricity - Own use by gas works,1991,"Kilowatt-hours, million",16.0,,total_electricity
+656428,Iran (Islamic Rep. of),Liquefied petroleum gas (LPG) - Own use by oil refineries,2005,"Metric tons,  thousand",4.859611,,liquified_petroleum_gas
+255761,United Arab Emirates,Ethane - Production,2013,"Metric tons,  thousand",704.0,,ethane
+708541,Romania,Motor Gasoline - Consumption by machinery ,2005,"Metric tons,  thousand",6.0,,motor_gasoline
+881293,"Korea, Republic of",Other bituminous coal - transformation in autoproducer electricity plants,2004,"Metric tons,  thousand",113.0,,other_bituminous_coal
+865124,Portugal,"Other bituminous coal - consumption by manufacturing, construction and non-fuel industry",2008,"Metric tons,  thousand",80.0,,other_bituminous_coal
+92903,China,Blast furnace gas - Total energy supply,2013,Terajoules,2746628.0,,blast_furnace_gas
+753531,Belgium,Motor Gasoline - Total energy supply,2000,"Metric tons,  thousand",2235.0,,motor_gasoline
+452052,Belgium,Gas Oil/ Diesel Oil - Own use by coke ovens,1995,"Metric tons,  thousand",12.0,,gas_oil_diesel_oil
+1155690,Portugal,From combustible fuels – Main activity – CHP plants,2007,"Kilowatt-hours, million",341.0,,total_electricity
+493971,Russian Federation,Hard coal - consumption by construction industry,2002,"Metric tons,  thousand",47.0,,hard_coal
+494946,France,Hard coal - consumption by households,1996,"Metric tons,  thousand",1036.0,,hard_coal
+688872,Malaysia,Lubricants - Final consumption,1994,"Metric tons,  thousand",170.0,1.0,lubricants
+578141,Ecuador,"Kerosene-type Jet Fuel - Consumption by manufacturing, construction and non-fuel mining industry",2013,"Metric tons,  thousand",21.68,,kerosene_type_jet_fuel
+379738,India,Fuelwood - Transformation in charcoal plants,1995,"Cubic metres, thousand",15.0,1.0,fuelwood
+656515,"Korea, Republic of",Liquefied petroleum gas (LPG) - Own use by oil refineries,2013,"Metric tons,  thousand",31.0,,liquified_petroleum_gas
+743724,Suriname,Motor Gasoline - Losses,2006,"Metric tons,  thousand",0.0,,motor_gasoline
+1062241,Côte d'Ivoire,Electricity - Consumption by other,2007,"Kilowatt-hours, million",2402.0,,total_electricity
+352196,China,Fuelwood - Exports,2003,"Cubic metres, thousand",4.364,,fuelwood
+343912,Italy,Fuelwood - Consumption by other,2005,"Cubic metres, thousand",17757.3070610706,1.0,fuelwood
+704040,Lao People's Dem. Rep.,Lubricants - Total energy supply,2004,"Metric tons,  thousand",1.0,1.0,lubricants
+1097355,American Samoa,Electricity - Gross demand,2005,"Kilowatt-hours, million",181.7,,total_electricity
+342412,Brunei Darussalam,Fuelwood - Consumption by other,2000,"Cubic metres, thousand",10.2,1.0,fuelwood
+1164612,Romania,Hydro – Main activity,2014,"Kilowatt-hours, million",18953.0,,total_electricity
+5848,Austria,Anthracite - consumption by non-metallic minerals,2011,"Metric tons,  thousand",0.0,,anthracite
+91774,Colombia,Blast Furnace Gas - Production,1990,Terajoules,2909.0,1.0,blast_furnace_gas
+796352,Canada,Natural gas (including LNG) - consumption by other,1997,Terajoules,1127088.0,,natural_gas_including_lng
+1103193,Bahrain,Electricity - Gross production,1995,"Kilowatt-hours, million",4611.0,,total_electricity
+363621,Mongolia,Fuelwood - Imports,1992,"Cubic metres, thousand",0.0,,fuelwood
+612642,Slovakia,"Lignite - Consumption by manufacturing, construction and non-fuel industry",2001,"Metric tons,  thousand",424.0,,lignite
+534550,Sweden,From combustible fuels – Autoproducer,2009,Terajoules,11131.0,,heat
+197975,Yemen,Crude petroleum - reserves,1991,"Metric tons,  thousand",544000.0,,conventional_crude_oil
+529978,"Korea, Republic of","Hard coal - transformation in electricity, CHP and heat plants",2009,"Metric tons,  thousand",74117.0,,hard_coal
+710983,South Africa,Motor Gasoline - Consumption by other,2013,"Metric tons,  thousand",262.0,,motor_gasoline
+771177,Israel,Naphtha - Imports,1993,"Metric tons,  thousand",30.0,,naphtha
+676168,Botswana,Liquified Petroleum Gas (LPG) - Consumption by mining and quarrying,2012,"Metric tons,  thousand",7.0,,liquified_petroleum_gas
+1171505,Ukraine,Wind – Main activity,2007,"Kilowatt-hours, million",45.0,,total_electricity
+758697,Ireland,Motor Gasoline - Transfers and recycled products,2012,"Metric tons,  thousand",17.0,,motor_gasoline
+524948,Canada,Hard coal - transformation,2005,"Metric tons,  thousand",13689.0,,hard_coal
+606005,Dominican Republic,Kerosene-type Jet Fuel - Total energy supply,2013,"Metric tons,  thousand",-3.4194869158454796e-14,,kerosene_type_jet_fuel
+149208,Papua New Guinea,Charcoal - Total energy supply,2006,"Metric tons,  thousand",6.0,,charcoal
+1019579,Iraq,Refinery gas - Production from refineries,1994,"Metric tons,  thousand",351.0,,refinery_gas
+122400,Azerbaijan,"Charcoal - Consumption by agriculture, forestry and fishing",2014,"Metric tons,  thousand",1.0,,charcoal
+131571,Denmark,Charcoal - Exports,2013,"Metric tons,  thousand",1.3519999999999999,,charcoal
+1171821,Belarus,Total refinery output,2011,"Metric tons,  thousand",20187.0,,total_refinery_output
+154156,Finland,"Coke Oven Gas - Consumption by manufacturing, construction and non-fuel industry",2011,Terajoules,4334.0,,coke_oven_coke
+210325,Kiribati,"Electricity - net installed capacity of electric power plants, public combustible fuels",2009,"Kilowatts,  thousand",5.45,1.0,electricity_net_installed_capacity_of_electric_power_plants
+951876,France,Other oil products n.e.c. - Transfers and recycled products,2014,"Metric tons,  thousand",-407.0,,other_oil_products_n_e_c
+479525,Samoa,Gas Oil/ Diesel Oil - Transformation in electricity plants - autoproducers,1995,"Metric tons,  thousand",1.2,1.0,gas_oil_diesel_oil
+661890,Lithuania,Liquefied petroleum gas (LPG) - production from refineries,2011,"Metric tons,  thousand",323.0,,liquified_petroleum_gas
+384118,Netherlands,Fuelwood - Transformation in electricity plants - main activity producers,2009,"Cubic metres, thousand",1391.7898189999999,1.0,fuelwood
+551909,Czechia,Heat - Energy industries own use,2003,Terajoules,15433.0,,heat
+218972,Australia,"Electricity - net installed capacity of electric power plants, public tide, wave, marine",2007,"Kilowatts,  thousand",1.0,,electricity_net_installed_capacity_of_electric_power_plants
+325305,Bulgaria,Fuel oil - Transformation in CHP plants - main activity producers,2014,"Metric tons,  thousand",3.0,,fuel_oil
+776557,Romania,Naphtha - production from refineries,1993,"Metric tons,  thousand",453.0,,naphtha
+772939,Venezuela (Bolivar. Rep.),Naphtha - Non-energy uses,2003,"Metric tons,  thousand",1145.0,,naphtha
+753731,Brazil,Motor Gasoline - Total energy supply,2001,"Metric tons,  thousand",17207.0,,motor_gasoline
+794503,Greece,Natural Gas (including LNG) - consumption by non-ferrous metals,2000,Terajoules,1830.0,,natural_gas_including_lng
+466586,Samoa,Gas Oil/ Diesel Oil - Total energy supply,2012,"Metric tons,  thousand",38.5,1.0,gas_oil_diesel_oil
+32498,Honduras,Bagasse - Final consumption,2009,"Metric tons,  thousand",1461.390036,1.0,bagasse
+467536,Uganda,Gas Oil/ Diesel Oil - Total energy supply,2012,"Metric tons,  thousand",560.861619,,gas_oil_diesel_oil
+1110426,Slovakia,Electricity - imports,2005,"Kilowatt-hours, million",8005.0,,total_electricity
+554679,Tajikistan,Heat - Gross demand,2008,Terajoules,1575.0,,heat
+332144,Austria,Fuel oil - Transformation in heat plants - main activity producers,2013,"Metric tons,  thousand",33.0,,fuel_oil
+645285,Saudi Arabia,Liquefied petroleum gas (LPG) - Exports,2012,"Metric tons,  thousand",23097.0,,liquified_petroleum_gas
+1104577,French Guiana,Electricity - Gross production,2005,"Kilowatt-hours, million",691.0,1.0,total_electricity
+1009300,Germany,Feedstocks - transformation in oil refineries,2012,"Metric tons,  thousand",6744.0,,refinery_feedstocks
+1039515,Armenia,Electricity - Consumption by commercial and public services,2009,"Kilowatt-hours, million",312.0,,total_electricity
+27924,New Zealand,Aviation gasoline - Transfers and recycled products,1993,"Metric tons,  thousand",0.0,,aviation_gasoline
+26367,Kenya,Aviation gasoline - Total energy supply,1991,"Metric tons,  thousand",9.0,,aviation_gasoline
+192889,Bangladesh,Crude petroleum - refinery capacity,2001,"Metric tons,  thousand",1500.0,,conventional_crude_oil
+566148,Puerto Rico,Electricity - total hydro production,1997,"Kilowatt-hours, million",93.0,,hydro
+70336,Oman,Bitumen - Non-energy uses,2003,"Metric tons,  thousand",26.0,,bitumen
+424163,United Arab Emirates,Gas Oil/ Diesel Oil - Consumption in road,1997,"Metric tons,  thousand",733.0,,gas_oil_diesel_oil
+838294,Sweden,Natural gas (including LNG) - transformation,1991,Terajoules,11581.0,,natural_gas_including_lng
+912697,Tonga,Other kerosene - Final energy consumption,2013,"Metric tons,  thousand",0.126,1.0,other_kerosene
+856348,Switzerland,Of which: biodiesel - Consumption by road,2004,"Metric tons,  thousand",3.0,,of_which_biodiesel
+673342,Italy,Liquified Petroleum Gas (LPG) - Consumption by construction,2014,"Metric tons,  thousand",1.0,,liquified_petroleum_gas
+441278,Peru,Gas Oil/ Diesel Oil - Final energy consumption,2014,"Metric tons,  thousand",4509.0,,gas_oil_diesel_oil
+554861,Armenia,Heat - Gross production,2003,Terajoules,1441.0,,heat
+1169112,Slovenia,Solar photovoltaic – Autoproducer,2007,"Kilowatt-hours, million",0.0,,total_electricity
+338033,Sint Maarten (Dutch part),Fuelwood - Consumption by households,2013,"Cubic metres, thousand",0.1,1.0,fuelwood
+15769,Iceland,Aviation gasoline - Final consumption,2007,"Metric tons,  thousand",1.0,,aviation_gasoline
+1074248,Venezuela (Bolivar. Rep.),Electricity - Consumption by rail,2004,"Kilowatt-hours, million",238.0,,total_electricity
+32570,Iran (Islamic Rep. of),Bagasse - Final consumption,2002,"Metric tons,  thousand",978.0,,bagasse
+305851,Australia,Fuel oil - Own use by oil refineries,2007,"Metric tons,  thousand",45.0,,fuel_oil
+1049969,Togo,Electricity - Consumption by households,1995,"Kilowatt-hours, million",135.0,,total_electricity
+490294,Turkey,Gasworks Gas - Total energy supply,1994,Terajoules,70.0,,gasworks_gas
+96500,Netherlands,Blast Furnace Gas - Transformation in electricity plants - main activity producers,2001,Terajoules,17189.0,,blast_furnace_gas
+72399,Japan,Bitumen - Production,2008,"Metric tons,  thousand",4694.0,,bitumen
+1162894,Faeroe Islands,Hydro – Main activity,1993,"Kilowatt-hours, million",74.0,,total_electricity
+925526,Fiji,Other kerosene - Total energy supply,2004,"Metric tons,  thousand",6.072874,,other_kerosene
+557930,Slovakia,Heat - Net production,2004,Terajoules,50327.0,,heat
+1119426,Micronesia (Fed. States of),Electricity - net production,2012,"Kilowatt-hours, million",67.28,1.0,total_electricity
+309767,South Africa,Fuel oil - Production,1990,"Metric tons,  thousand",1983.0,1.0,fuel_oil
+508783,Denmark,Hard coal - exports,1999,"Metric tons,  thousand",200.0,,hard_coal
+593865,El Salvador,Kerosene-type Jet Fuel - International aviation bunkers,2014,"Metric tons,  thousand",152.0,,kerosene_type_jet_fuel
+835814,Nigeria,Natural gas (including LNG) - total resources,1993,Terajoules,134661471.0,,natural_gas_including_lng
+578792,Albania,Kerosene-type Jet Fuel - Consumption by transport,2009,"Metric tons,  thousand",10.59,1.0,kerosene_type_jet_fuel
+19965,French Guiana,Aviation gasoline - Imports,2008,"Metric tons,  thousand",0.1,1.0,aviation_gasoline
+240216,Zimbabwe,"Electricity - total net installed capacity of electric power plants, hydro",2006,"Kilowatts,  thousand",680.0,,electricity_net_installed_capacity_of_electric_power_plants
+215651,Lao People's Dem. Rep.,"Electricity - net installed capacity of electric power plants, public hydro",1993,"Kilowatts,  thousand",198.4,,electricity_net_installed_capacity_of_electric_power_plants
+73115,Sri Lanka,Bitumen - Production,1990,"Metric tons,  thousand",26.0,,bitumen
+625677,Kiribati,Liquefied petroleum gas (LPG) - Consumption by households,1999,"Metric tons,  thousand",0.049,1.0,liquified_petroleum_gas
+534431,Romania,From combustible fuels – Autoproducer,2006,Terajoules,12185.0,,heat
+771125,India,Naphtha - Imports,2002,"Metric tons,  thousand",2293.0,,naphtha
+1181860,Tunisia,White spirit and special boiling point industrial spirits - Imports,1996,"Metric tons,  thousand",2.0,1.0,white_spirit_and_special_boiling_point_industrial_spirits
+694822,Chad,Lubricants - Non-energy uses,2001,"Metric tons,  thousand",1.0,1.0,lubricants
+527037,France,Hard coal - transformation in briquetting plants,2011,"Metric tons,  thousand",0.0,,hard_coal
+934037,Latvia,"Other oil products n.e.c. - Consumption by other manuf., const. and non-fuel min. ind.",1999,"Metric tons,  thousand",3.0,,other_oil_products_n_e_c
+595600,Netherlands,Kerosene-type Jet Fuel - International aviation bunkers,2005,"Metric tons,  thousand",3510.0,,kerosene_type_jet_fuel
+395250,Nepal,"Gas Oil/ Diesel Oil - Consumption by manufacturing, construction and non-fuel mining industry",1992,"Metric tons,  thousand",2.0,1.0,gas_oil_diesel_oil
+515386,Dominican Republic,Hard coal - imports,2005,"Metric tons,  thousand",476.0,,hard_coal
+570525,United States,Industrial Waste - Consumption not elsewhere specified (other),2001,Terajoules,694.0,,industrial_waste
+765412,Portugal,Municipal Wastes - Transformation in electricity plants - autoproducers,2012,Terajoules,7197.0,,municipal_wastes
+1046379,"China, Hong Kong SAR",Electricity - Consumption by households,1992,"Kilowatt-hours, million",6032.0,,total_electricity
+460336,China,Gas Oil/ Diesel Oil - Stock changes,2014,"Metric tons,  thousand",936.7,,gas_oil_diesel_oil
+194033,Kenya,Crude petroleum - refinery capacity,2004,"Metric tons,  thousand",4492.0,,conventional_crude_oil
+338783,United States,Fuelwood - Consumption by households,1997,"Cubic metres, thousand",43368.0,1.0,fuelwood
+343509,Greece,Fuelwood - Consumption by other,2008,"Cubic metres, thousand",2586.97318,1.0,fuelwood
+1020680,United Kingdom,Refinery gas - Production from refineries,2013,"Metric tons,  thousand",2467.0,,refinery_gas
+548866,Canada,"Heat - Consumption by paper, pulp and print",1991,Terajoules,3111.0,,heat
+644333,France,Liquefied petroleum gas (LPG) - Exports,2001,"Metric tons,  thousand",1279.0,,liquified_petroleum_gas
+203662,Belgium,Direct use of solar thermal heat - Final energy consumption,1993,Terajoules,34.0,,direct_use_of_solar_thermal_heat
+742762,Sudan,Motor Gasoline - Imports,2013,"Metric tons,  thousand",41.0,,motor_gasoline
+844997,South Africa,Natural Gas (including LNG) - transformation in gas-to-liquid plants,2010,Terajoules,142012.0,,natural_gas_including_lng
+453368,Jamaica,Gas Oil/ Diesel Oil - Own use by oil refineries,1998,"Metric tons,  thousand",2.0,,gas_oil_diesel_oil
+88862,Russian Federation,Blast furnace gas - final consumption,2003,Terajoules,138979.0,,blast_furnace_gas
+1027219,Hungary,Sub-bituminous coal - Consumption by households,2010,"Metric tons,  thousand",162.0,,sub_bituminous_coal
+576942,Lao People's Dem. Rep.,Kerosene-type Jet Fuel - Consumption by domestic aviation,2000,"Metric tons,  thousand",1.0,1.0,kerosene_type_jet_fuel
+1111111,Andorra,Electricity - Losses,2006,"Kilowatt-hours, million",76.7,,total_electricity
+1062193,Cook Islands,Electricity - Consumption by other,2005,"Kilowatt-hours, million",29.9,,total_electricity
+426311,Czechia,Gas Oil/ Diesel Oil - Consumption not elsewhere specified (other),2003,"Metric tons,  thousand",4.0,,gas_oil_diesel_oil
+694783,Canada,Lubricants - Non-energy uses,1990,"Metric tons,  thousand",817.0,,lubricants
+216840,St. Vincent-Grenadines,"Electricity - net installed capacity of electric power plants, public hydro",2004,"Kilowatts,  thousand",7.0,,electricity_net_installed_capacity_of_electric_power_plants
+1185628,Czechia,White spirit and special boiling point industrial spirits - Stock changes,2000,"Metric tons,  thousand",-1.0,,white_spirit_and_special_boiling_point_industrial_spirits
+802789,Iran (Islamic Rep. of),Natural gas (including LNG) - consumption by transport,2000,Terajoules,4963.0,,natural_gas_including_lng
+510844,Japan,Hard coal - final consumption,1994,"Metric tons,  thousand",16269.0,,hard_coal
+1002940,United States,Petroleum coke - Total energy supply,1991,"Metric tons,  thousand",21817.0,,petroleum_coke
+808703,Italy,Natural gas (including LNG) - energy industries own use,1999,Terajoules,15429.0,,natural_gas_including_lng
+550039,Lithuania,Heat - Consumption by transport equipment,2014,Terajoules,8.0,,heat
+631090,Austria,Liquefied petroleum gas (LPG) - Consumption by other,2002,"Metric tons,  thousand",104.0,,liquified_petroleum_gas
+495966,Turkey,Hard coal - consumption by machinery industry,1998,"Metric tons,  thousand",5.0,,hard_coal
+591737,Sierra Leone,Kerosene-type Jet Fuel - Imports,2006,"Metric tons,  thousand",11.526,,kerosene_type_jet_fuel
+704208,Malawi,Lubricants - Total energy supply,2002,"Metric tons,  thousand",6.0,,lubricants
+992562,Brazil,Petroleum coke - Exports,1992,"Metric tons,  thousand",0.0,,petroleum_coke
+957987,Portugal,"Vegetal waste - Consumption by manufacturing, construction and non-fuel mining industry",1998,Terajoules,22716.0,1.0,other_vegetal_material_and_residues
+336232,Guadeloupe,Fuelwood - Consumption by households,2012,"Cubic metres, thousand",2.77,1.0,fuelwood
+829871,Oman,Natural gas (including LNG) - production,1991,Terajoules,90608.0,,natural_gas_including_lng
+1060482,"Korea, Republic of",Electricity - Consumption by non-metallic minerals,1996,"Kilowatt-hours, million",9589.0,,total_electricity
+864354,Austria,"Other bituminous coal - consumption by manufacturing, construction and non-fuel industry",2000,"Metric tons,  thousand",311.0,,other_bituminous_coal
+415142,Mauritania,"Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing",2014,"Metric tons,  thousand",45.0,1.0,gas_oil_diesel_oil
+416357,Zambia,"Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing",2007,"Metric tons,  thousand",19.0,,gas_oil_diesel_oil
+562347,Norway,Heat production - Main activity total,2006,Terajoules,11757.0,,heat
+512451,Austria,Hard coal - final energy consumption,1996,"Metric tons,  thousand",462.0,,hard_coal
+283239,Other Asia,Fuel oil - Consumption not elsewhere specified (industry),2009,"Metric tons,  thousand",12.0,,fuel_oil
+540908,Lithuania,Heat - Consumption by chemical and petrochemical,2006,Terajoules,5270.0,,heat
+547184,Iceland,Heat - Consumption by other,2008,Terajoules,19338.0,,heat
+1186417,Canada,White spirit and special boiling point industrial spirits - Total energy supply,2011,"Metric tons,  thousand",67.0,,white_spirit_and_special_boiling_point_industrial_spirits
+749493,Serbia and Montenegro,Motor Gasoline - production from refineries,2000,"Metric tons,  thousand",340.0,,motor_gasoline
+37816,Gabon,Bagasse - Total energy supply,2007,"Metric tons,  thousand",68.5,,bagasse
+330044,Antigua and Barbuda,Fuel oil - Transformation in electricity plants - main activity producers,2013,"Metric tons,  thousand",35.0,1.0,fuel_oil
+650773,Bermuda,Liquefied petroleum gas (LPG) - Imports,1999,"Metric tons,  thousand",10.0,1.0,liquified_petroleum_gas
+204912,Norway,Electricity generating capacity - Pumped hydro - Autoproducers,2013,"Kilowatts,  thousand",36.0,,electricity_net_installed_capacity_of_electric_power_plants
+1085481,Liberia,Electricity - Consumption not elsewhere specified (other),1990,"Kilowatt-hours, million",295.0,1.0,total_electricity
+1089289,Tunisia,Electricity - Energy industries own use,2011,"Kilowatt-hours, million",372.0,,total_electricity
+956041,Sudan (former),Vegetal waste - Consumption by commerce and public services,1998,Terajoules,9623.0,1.0,other_vegetal_material_and_residues
+785726,Greece,Natural Gas (including LNG) - consumption by food and tobacco,2004,Terajoules,3818.0,,natural_gas_including_lng
+305083,Venezuela (Bolivar. Rep.),Fuel oil - Other energy industry own use,2002,"Metric tons,  thousand",53.0,,fuel_oil
+733417,Austria,Motor Gasoline - Final energy consumption,2001,"Metric tons,  thousand",1990.0,,motor_gasoline
+43695,Romania,Biodiesel - Imports,2012,"Metric tons,  thousand",106.0,,biodiesel
+821781,Kyrgyzstan,Natural gas (including LNG) - Memo:Gross production,1992,Terajoules,2444.0,,natural_gas_including_lng
+219089,Austria,"Electricity - net installed capacity of electric power plants, public wind",2003,"Kilowatts,  thousand",322.0,,electricity_net_installed_capacity_of_electric_power_plants
+40223,Trinidad and Tobago,"Bagasse - Transformation in electricity, CHP and heat plants",1992,"Metric tons,  thousand",225.715802696158,,bagasse
+481571,Somalia,Gas Oil/ Diesel Oil - Transformation in electricity plants - main activity producers,2014,"Metric tons,  thousand",86.0,1.0,gas_oil_diesel_oil
+365863,Estonia,Fuelwood - Production,2006,"Cubic metres, thousand",2181.8281335522697,,fuelwood
+29658,Suriname,"Bagasse - Consumption by manufacturing, construction and non-fuel industry",2008,"Metric tons,  thousand",19.56,,bagasse
+1177560,France,Uranium - production,2008,Metric Tons,5.0,,uranium
+999836,Egypt,Petroleum coke - production from refineries,1993,"Metric tons,  thousand",137.0,,petroleum_coke
+435837,Niue,Gas Oil/ Diesel Oil - Final consumption,1997,"Metric tons,  thousand",0.5,1.0,gas_oil_diesel_oil
+437732,Argentina,Gas Oil/ Diesel Oil - Final energy consumption,2013,"Metric tons,  thousand",10121.0,1.0,gas_oil_diesel_oil
+470801,Jersey,Gas Oil/ Diesel Oil - Transformation,2007,"Metric tons,  thousand",2.17,1.0,gas_oil_diesel_oil
+519301,Morocco,Hard coal - production,2001,"Metric tons,  thousand",2.0,,hard_coal
+337,Italy,Additives and Oxygenates - Imports,2008,"Metric tons,  thousand",278.0,,additives_and_oxygenates
+225919,"Korea, Republic of","Electricity - net installed capacity of electric power plants, self-producer solar",2014,"Kilowatts,  thousand",690.0,,electricity_net_installed_capacity_of_electric_power_plants
+568571,Spain,"Industrial Waste - Consumption by manufacturing, construction and non-fuel industry",1996,Terajoules,3270.0,,industrial_waste
+713870,Belize,Motor Gasoline - Consumption by transport,2011,"Metric tons,  thousand",88.82821700000001,,motor_gasoline
+526800,"Korea, Republic of",Hard coal - transformation in blast furnaces,1994,"Metric tons,  thousand",2027.0,,hard_coal
+76785,Uruguay,Bitumen - Stock changes,2008,"Metric tons,  thousand",-1.7,,bitumen
+753612,Bermuda,Motor Gasoline - Total energy supply,1994,"Metric tons,  thousand",20.0,1.0,motor_gasoline
+56471,Luxembourg,Biogasoline - Consumption by road,2014,"Metric tons,  thousand",5.0,,biogasoline
+621981,Hungary,Lignite - Transformation in main activity CHP plants,1999,"Metric tons,  thousand",1883.0,,lignite
+508478,Australia,Hard coal - exports,2008,"Metric tons,  thousand",252189.0,,hard_coal
+756340,Myanmar,Motor Gasoline - Total energy supply,2011,"Metric tons,  thousand",548.52,,motor_gasoline
+199071,Iceland,Direct use of geothermal heat - Consumption by households,2003,Terajoules,994.0,,direct_use_of_geothermal_heat
+777425,Czechia,Naphtha - Stock changes,2003,"Metric tons,  thousand",-9.0,,naphtha
+846960,Qatar,Natural gas liquids - Exports,2005,"Metric tons,  thousand",5283.0,,natural_gas_liquids
+545694,Bulgaria,Heat - Consumption by mining and quarrying,2014,Terajoules,0.0,,heat
+660221,Qatar,Liquefied petroleum gas (LPG) - production from plants,1997,"Metric tons,  thousand",1227.0,,liquified_petroleum_gas
+1094180,Ireland,Electricity - Final energy consumption,1992,"Kilowatt-hours, million",13207.0,,total_electricity
+435470,Mongolia,Gas Oil/ Diesel Oil - Final consumption,1991,"Metric tons,  thousand",264.0,1.0,gas_oil_diesel_oil
+1184779,France,White spirit and special boiling point industrial spirits - production from refineries,2005,"Metric tons,  thousand",156.0,,white_spirit_and_special_boiling_point_industrial_spirits
+342575,Canada,Fuelwood - Consumption by other,2012,"Cubic metres, thousand",16476.299945,1.0,fuelwood
+283634,United States,Fuel oil - Consumption not elsewhere specified (industry),1996,"Metric tons,  thousand",1413.0,,fuel_oil
+824007,Syrian Arab Republic,Natural gas (including LNG) - non-energy uses,2005,Terajoules,47659.0007,,natural_gas_including_lng
+1036558,South Africa,Electricity - total thermal production,2001,"Kilowatt-hours, million",195469.0,,thermal_electricity
+665756,Belize,Liquefied petroleum gas (LPG) - Total energy supply,2005,"Metric tons,  thousand",13.5,1.0,liquified_petroleum_gas
+541623,Mongolia,Heat - Consumption by commerce and public services,2005,Terajoules,5757.26868,,heat
+82954,Spain,Black Liquor - Final energy consumption,1992,Terajoules,23325.0,1.0,black_liquor
+854367,Croatia,Natural gas liquids - Transformation in oil refineries,2012,"Metric tons,  thousand",23.0,,natural_gas_liquids
+863518,Croatia,Other bituminous coal - consumption by iron and steel industry,1992,"Metric tons,  thousand",3.0,,other_bituminous_coal
+701261,Croatia,Lubricants - Stock changes,2007,"Metric tons,  thousand",-1.0,,lubricants
+1058961,Australia,Electricity - Consumption by non-ferrous metals,2000,"Kilowatt-hours, million",35760.0,,total_electricity
+902994,Poland,Other kerosene - Energy industries own use,1999,"Metric tons,  thousand",1.0,,other_kerosene
+1060866,Sweden,Electricity - Consumption by non-metallic minerals,2011,"Kilowatt-hours, million",1021.0,,total_electricity
+285761,Dominican Republic,Fuel oil - Energy industries own use,2000,"Metric tons,  thousand",0.0,,fuel_oil
+799649,Spain,"Natural gas (including LNG) - consumption by other manuf., const. and non-fuel ind.",2007,Terajoules,318829.0,,natural_gas_including_lng
+652266,Ireland,Liquefied petroleum gas (LPG) - Imports,2014,"Metric tons,  thousand",98.0,,liquified_petroleum_gas
+1099802,Japan,Electricity - Gross demand,1998,"Kilowatt-hours, million",964410.0,,total_electricity
+112351,Netherlands,Brown coal - final consumption,1998,"Metric tons,  thousand",6.0,,brown_coal
+1009343,Greece,Feedstocks - transformation in oil refineries,1993,"Metric tons,  thousand",2965.0,,refinery_feedstocks
+890391,Panama,Other kerosene - Consumption by households,1994,"Metric tons,  thousand",8.0,1.0,other_kerosene
+636429,South Africa,Liquefied petroleum gas (LPG) - Consumption by other consumers not elsewhere specified,1998,"Metric tons,  thousand",61.0,,liquified_petroleum_gas
+834415,Russian Federation,Natural gas (including LNG) - total energy supply,2013,Terajoules,18382870.0,,natural_gas_including_lng
+1130244,Ukraine,Electricity - Own use by gas works,2006,"Kilowatt-hours, million",119.0,,total_electricity
+65071,Uganda,Bitumen - Final consumption,2008,"Metric tons,  thousand",2.2879,,bitumen
+292359,Neth. Antilles (former),Fuel oil - Final consumption,1993,"Metric tons,  thousand",97.0,1.0,fuel_oil
+194400,Myanmar,Crude petroleum - refinery capacity,1992,"Metric tons,  thousand",2808.0,,conventional_crude_oil
+449497,Myanmar,Gas Oil/ Diesel Oil - International marine bunkers,2004,"Metric tons,  thousand",3.0,,gas_oil_diesel_oil
+246090,Azerbaijan,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",2001,"Kilowatts,  thousand",5161.0,,electricity_net_installed_capacity_of_electric_power_plants
+777293,Canada,Naphtha - Stock changes,2013,"Metric tons,  thousand",41.0,,naphtha
+207534,Tunisia,Electricity generating capacity - Solar PV - Total,2013,"Kilowatts,  thousand",7.397,,electricity_net_installed_capacity_of_electric_power_plants
+981191,Estonia,Peat - consumption by households,1998,"Metric tons,  thousand",1.0,,peat
+968745,Côte d'Ivoire,"Vegetal waste - Transformation in electricity, CHP and heat plants",2014,Terajoules,1478.0,,other_vegetal_material_and_residues
+572699,Russian Federation,Industrial Waste - Stock changes,1999,Terajoules,0.0,,industrial_waste
+792660,New Zealand,"Natural gas (including LNG) - consumption by manufacturing, construction and non-fuel industry",2008,Terajoules,31895.0,,natural_gas_including_lng
+403575,Finland,"Gas Oil/ Diesel Oil - Consumption by other manuf., const. and non-fuel min. ind.",2002,"Metric tons,  thousand",453.0,,gas_oil_diesel_oil
+806838,Colombia,Natural gas (including LNG) - consumption not elsewhere specified (other),2004,Terajoules,5787.0,,natural_gas_including_lng
+1104020,Costa Rica,Electricity - Gross production,1992,"Kilowatt-hours, million",4144.0,,total_electricity
+1179193,Uruguay,White spirit and special boiling point industrial spirits - Exports,1995,"Metric tons,  thousand",0.0,,white_spirit_and_special_boiling_point_industrial_spirits
+684507,Japan,Liquified Petroleum Gas (LPG) - Transformation in heat plants - main activity producers,1996,"Metric tons,  thousand",6.0,,liquified_petroleum_gas
+301140,Slovenia,Fuel oil - Imports,1998,"Metric tons,  thousand",99.0,,fuel_oil
+767791,Croatia,Naphtha - Exports,2011,"Metric tons,  thousand",95.0,,naphtha
+900477,Denmark,"Other kerosene - Consumption in agriculture, forestry and fishing",1998,"Metric tons,  thousand",0.0,,other_kerosene
+579256,Congo,Kerosene-type Jet Fuel - Consumption by transport,2007,"Metric tons,  thousand",12.0,,kerosene_type_jet_fuel
+238929,Nicaragua,"Electricity - total net installed capacity of electric power plants, hydro",1998,"Kilowatts,  thousand",103.0,,electricity_net_installed_capacity_of_electric_power_plants
+984836,Romania,Peat - production,2008,"Metric tons,  thousand",10.0,,peat
+297655,Uruguay,Fuel oil - Final energy consumption,2010,"Metric tons,  thousand",146.4,,fuel_oil
+414233,Costa Rica,"Gas Oil/ Diesel Oil - Consumption in agriculture, forestry and fishing",2010,"Metric tons,  thousand",32.34292,,gas_oil_diesel_oil
+59643,Latvia,Biogasoline - Total energy supply,2012,"Metric tons,  thousand",11.0,,biogasoline
+1183263,Tunisia,White spirit and special boiling point industrial spirits - Non-energy uses,2008,"Metric tons,  thousand",13.0,,white_spirit_and_special_boiling_point_industrial_spirits
+498229,United States,"Hard coal - consumption by manufacturing, construction and non-fuel mining industry",2009,"Metric tons,  thousand",24176.0,,hard_coal
+32473,Haiti,Bagasse - Final consumption,2009,"Metric tons,  thousand",139.469833,,bagasse
+501951,United States,Hard coal - consumption by other consumers,1990,"Metric tons,  thousand",7811.0,,hard_coal
+401942,Switzerland,Gas Oil/ Diesel Oil - Consumption by other,1991,"Metric tons,  thousand",4919.0,,gas_oil_diesel_oil
+658249,Madagascar,Liquefied petroleum gas (LPG) - Production,1992,"Metric tons,  thousand",1.0,1.0,liquified_petroleum_gas
+264307,Italy,Fuel oil - Consumption by machinery ,1991,"Metric tons,  thousand",370.0,,fuel_oil
+117776,India,Brown coal - transformation,2003,"Metric tons,  thousand",23506.0,,brown_coal
+382960,Italy,"Fuelwood - Transformation in electricity, CHP and heat plants",2002,"Cubic metres, thousand",1209.41434,1.0,fuelwood
+886085,Denmark,Other hydrocarbons - transformation in CHP plants - main activity producers,1996,"Metric tons,  thousand",1312.0,,other_hydrocarbons
+423854,Sweden,Gas Oil/ Diesel Oil - Consumption in road,1999,"Metric tons,  thousand",2382.0,,gas_oil_diesel_oil
+713175,Republic of Moldova,Motor Gasoline - Consumption by other transportation,2009,"Metric tons,  thousand",0.0,,motor_gasoline
+124871,Nigeria,Charcoal - Consumption by households,1990,"Metric tons,  thousand",254.0,,charcoal
+1182535,Hungary,White spirit and special boiling point industrial spirits - Non-energy uses,2010,"Metric tons,  thousand",4.0,,white_spirit_and_special_boiling_point_industrial_spirits
+266875,Myanmar,"Fuel oil - Consumption by manufacturing, construction and non-fuel industry",1997,"Metric tons,  thousand",66.0,,fuel_oil
+467707,USSR (former),Gas Oil/ Diesel Oil - Total energy supply,1991,"Metric tons,  thousand",88142.0,,gas_oil_diesel_oil
+174255,Argentina,Conventional crude oil - imports,1990,"Metric tons,  thousand",47.0,,conventional_crude_oil
+942577,Netherlands,Other oil products n.e.c. - Non-energy uses,2010,"Metric tons,  thousand",292.0,,other_oil_products_n_e_c
+1182356,Croatia,White spirit and special boiling point industrial spirits - Non-energy uses,2007,"Metric tons,  thousand",5.0,,white_spirit_and_special_boiling_point_industrial_spirits
+199176,Spain,Direct use of geothermal heat - Consumption by households,2012,Terajoules,428.0,,direct_use_of_geothermal_heat
+944825,Germany,Other oil products n.e.c. - Production,2005,"Metric tons,  thousand",1503.0,,other_oil_products_n_e_c
+1003593,United States,Petroleum Coke - Transformation in CHP plants - autoproducers,2008,"Metric tons,  thousand",378.0,,petroleum_coke
+249180,Namibia,"Electricity - total net installed capacity of electric power plants, main activity & autoproducer",2006,"Kilowatts,  thousand",393.0,,electricity_net_installed_capacity_of_electric_power_plants
+686931,Aruba,Lubricants - Final consumption,1998,"Metric tons,  thousand",1.0,1.0,lubricants
+78031,Georgia,Bitumen - Total energy supply,2000,"Metric tons,  thousand",9.0,,bitumen
+17224,Bolivia (Plur. State of),Aviation gasoline - Final energy consumption,1997,"Metric tons,  thousand",4.0,,aviation_gasoline
+334630,Sweden,Fuelwood - Consumption by food and tobacco ,2000,"Cubic metres, thousand",9.19540229885057,1.0,fuelwood
+1038150,Estonia,Electricity - Consumption by chemical and petrochemical,1999,"Kilowatt-hours, million",406.0,,total_electricity
+115538,Canada,Brown coal - production,2013,"Metric tons,  thousand",30626.0,,brown_coal
+959118,Poland,Vegetal waste - Consumption by other,2008,Terajoules,32758.0,1.0,other_vegetal_material_and_residues
+100305,Bulgaria,Brown Coal Briquettes - Final energy consumption,2011,"Metric tons,  thousand",121.0,,brown_coal_briquettes
+618836,Slovenia,Lignite - Production,2002,"Metric tons,  thousand",4686.0,,lignite
+1027367,T.F.Yug.Rep. Macedonia,Sub-bituminous coal - Consumption by iron and steel industry,2005,"Metric tons,  thousand",94.0,,sub_bituminous_coal
+771383,Other Asia,Naphtha - Imports,1997,"Metric tons,  thousand",1216.0,,naphtha
+651542,Egypt,Liquefied petroleum gas (LPG) - Imports,2003,"Metric tons,  thousand",1354.0,,liquified_petroleum_gas
+1078561,Czechia,Electricity - Consumption by wood and wood products,1992,"Kilowatt-hours, million",375.0,,total_electricity
+486002,Chile,Gasworks Gas - Consumption by other,1993,Terajoules,2686.0,,gasworks_gas
+237461,El Salvador,"Electricity - total net installed capacity of electric power plants, hydro",2001,"Kilowatts,  thousand",395.8,,electricity_net_installed_capacity_of_electric_power_plants
+1172617,Honduras,Total refinery output,1990,"Metric tons,  thousand",401.0,,total_refinery_output
+1178753,Hungary,White spirit and special boiling point industrial spirits - Exports,2001,"Metric tons,  thousand",167.0,,white_spirit_and_special_boiling_point_industrial_spirits
+1034794,"Korea, Republic of",Electricity - total thermal production,1995,"Kilowatt-hours, million",111348.0,,thermal_electricity
+412241,United Kingdom,Gas Oil/ Diesel Oil - Consumption by transport,2010,"Metric tons,  thousand",23058.0,,gas_oil_diesel_oil
+97154,Luxembourg,Brown Coal Briquettes - Consumption by construction ,1996,"Metric tons,  thousand",10.0,,brown_coal_briquettes
+999420,United States,Petroleum coke - Production,2014,"Metric tons,  thousand",58142.0,,petroleum_coke
+26615,Mali,Aviation gasoline - Total energy supply,2001,"Metric tons,  thousand",0.0,1.0,aviation_gasoline
+654752,Niger,Liquefied petroleum gas (LPG) - Losses,2006,"Metric tons,  thousand",0.012,,liquified_petroleum_gas
+594302,Greece,Kerosene-type Jet Fuel - International aviation bunkers,1994,"Metric tons,  thousand",883.0,,kerosene_type_jet_fuel
+406445,Norway,"Gas Oil/ Diesel Oil - Consumption by paper, pulp and print",1990,"Metric tons,  thousand",9.0,,gas_oil_diesel_oil
+1026365,Niger,Electricity - total solar production,2012,"Kilowatt-hours, million",0.005,1.0,solar_electricity
+886526,Colombia,Other kerosene - Consumption by chemical and petrochemical,2009,"Metric tons,  thousand",4.0,,other_kerosene
+198413,Iceland,"Direct use of geothermal heat - Consumption by agriculture, forestry and fishing",1997,Terajoules,798.0,,direct_use_of_geothermal_heat
+637070,China,"Liquefied petroleum gas (LPG) - consumption by other manuf., const. and non-fuel min. ind.",2000,"Metric tons,  thousand",861.0,,liquified_petroleum_gas
+1036194,Romania,Electricity - total thermal production,1995,"Kilowatt-hours, million",42573.0,,thermal_electricity
+467409,Trinidad and Tobago,Gas Oil/ Diesel Oil - Total energy supply,1991,"Metric tons,  thousand",179.0,,gas_oil_diesel_oil
+632250,Ethiopia,Liquefied petroleum gas (LPG) - Consumption by other,2005,"Metric tons,  thousand",0.0,,liquified_petroleum_gas
+881218,France,Other bituminous coal - transformation in autoproducer electricity plants,1999,"Metric tons,  thousand",0.0,,other_bituminous_coal
+699075,Russian Federation,Lubricants - Production,2010,"Metric tons,  thousand",2723.0,,lubricants
+7668,Netherlands,Anthracite - final energy consumption,2006,"Metric tons,  thousand",36.0,,anthracite
+1145338,Mauritius,From combustible fuels – Autoproducer,2010,"Kilowatt-hours, million",1590.0,,total_electricity
+190710,Libya,Conventional crude oil - transformation in oil refineries,2004,"Metric tons,  thousand",16218.0,,conventional_crude_oil
+369656,Argentina,Fuelwood - Total energy supply,2013,"Cubic metres, thousand",3275.0,,fuelwood
+45447,Italy,Biogases - Consumption by chemical and petrochemical,2013,Terajoules,283.0,,biogases
+252574,Lao People's Dem. Rep.,"Electricity - total net installed capacity of electric power plants, solar",2009,"Kilowatts,  thousand",176.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+1033708,Ethiopia,Electricity - total thermal production,2009,"Kilowatt-hours, million",444.0,,thermal_electricity
+1045570,Aruba,Electricity - Consumption by households,2014,"Kilowatt-hours, million",289.7,1.0,total_electricity
+853526,New Zealand,Natural gas liquids - Transformation,2010,"Metric tons,  thousand",149.0,,natural_gas_liquids
+329862,Romania,Fuel oil - Transformation in electricity plants - autoproducers,2008,"Metric tons,  thousand",8.0,,fuel_oil
+1017078,Cyprus,Refinery gas - Production,1997,"Metric tons,  thousand",21.2771,,refinery_gas
+1118214,Guadeloupe,Electricity - net production,2010,"Kilowatt-hours, million",1730.0,,total_electricity
+47219,Denmark,Biogases - Consumption by other,1990,Terajoules,200.0,,biogases
+505497,Other Asia,Hard coal - consumption by textile and leather industry,2010,"Metric tons,  thousand",108.0,,hard_coal
+476784,Mexico,"Gas Oil/ Diesel Oil - Transformation in electricity, CHP and heat plants",2006,"Metric tons,  thousand",410.0,,gas_oil_diesel_oil
+910424,Guatemala,Other kerosene - Final energy consumption,1995,"Metric tons,  thousand",45.0,,other_kerosene
+64258,Nigeria,Bitumen - Final consumption,1997,"Metric tons,  thousand",79.0,,bitumen
+1128924,South Africa,"Electricity - Own use by electricity, heat and CHP plants",1998,"Kilowatt-hours, million",12372.0,,total_electricity
+1092846,"China, Macao SAR",Electricity - Final energy consumption,2008,"Kilowatt-hours, million",3309.0,,total_electricity
+734396,Cyprus,Motor Gasoline - Final energy consumption,2010,"Metric tons,  thousand",390.0,,motor_gasoline
+843183,Germany,Natural Gas (including LNG) - transformation in electricity plants - autoproducers,2011,Terajoules,10353.0,,natural_gas_including_lng
+206991,Cabo Verde,Electricity generating capacity - Solar PV - Total,2013,"Kilowatts,  thousand",6.42,,electricity_net_installed_capacity_of_electric_power_plants
+30006,Australia,"Bagasse - Consumption by other manuf., const. and non-fuel ind.",2009,"Metric tons,  thousand",5480.763005,1.0,bagasse
+653748,Slovenia,Liquefied petroleum gas (LPG) - Imports,1995,"Metric tons,  thousand",35.0,,liquified_petroleum_gas
+14325,Antigua and Barbuda,Aviation gasoline - Exports,1991,"Metric tons,  thousand",0.0,,aviation_gasoline
+533435,Romania,Hrad coal - consumption by iron and steel industry,1990,"Metric tons,  thousand",15.0,,hard_coal
+79809,T.F.Yug.Rep. Macedonia,Bitumen - Total energy supply,2009,"Metric tons,  thousand",25.308000000000003,,bitumen
+502608,Finland,"Hard coal - consumption by other manuf., const. and non-fuel ind.",1993,"Metric tons,  thousand",699.0,,hard_coal
+743489,Brazil,Motor Gasoline - Losses,1996,"Metric tons,  thousand",61.0,,motor_gasoline
+41335,France,Biodiesel - Consumption by road,1999,"Metric tons,  thousand",237.0,,biodiesel
+270085,Netherlands,Fuel oil - Consumption by non-metallic minerals ,1996,"Metric tons,  thousand",62.0,,fuel_oil
+299055,Fiji,Fuel oil - Imports,2002,"Metric tons,  thousand",1.0,,fuel_oil
+839912,Italy,Natural Gas (including LNG) - transformation in CHP plants - main activity producers,2002,Terajoules,352430.0,,natural_gas_including_lng
+1018074,Portugal,Refinery gas - Production,1990,"Metric tons,  thousand",283.0,,refinery_gas
+218820,South Sudan,Electricity - net installed capacity of electric power plants public solar,2014,"Kilowatts,  thousand",1.0,1.0,electricity_net_installed_capacity_of_electric_power_plants
+278973,Peru,Fuel oil - Consumption by transport,1998,"Metric tons,  thousand",50.96,,fuel_oil
+1070360,Solomon Islands,"Electricity - Consumption by other manuf., const. and non-fuel ind.",2014,"Kilowatt-hours, million",35.2,1.0,total_electricity
+66960,Malta,Bitumen - Imports,2006,"Metric tons,  thousand",8.0,,bitumen
+306382,Germany,Fuel oil - Own use by oil refineries,2004,"Metric tons,  thousand",1382.0,,fuel_oil
+1001465,Venezuela (Bolivar. Rep.),Petroleum coke - Stock changes,1997,"Metric tons,  thousand",109.0,,petroleum_coke
+255870,Croatia,Ethane - Production from plants,1998,"Metric tons,  thousand",83.0,,ethane
+409348,Greece,Gas Oil/ Diesel Oil - Consumption by transport,2014,"Metric tons,  thousand",2271.0,,gas_oil_diesel_oil
+95761,Portugal,"Blast Furnace Gas - Transformation in electricity, CHP and heat plants",1991,Terajoules,787.0,,blast_furnace_gas
+10219,Brazil,Aviation gasoline - Consumption by transport,1994,"Metric tons,  thousand",47.0,,aviation_gasoline
+338829,Vanuatu,Fuelwood - Consumption by households,2001,"Cubic metres, thousand",88.042,1.0,fuelwood
+630033,Other Asia,"Liquefied petroleum gas (LPG) - consumption by manufacturing, construction and non-fuel mining industry",1995,"Metric tons,  thousand",455.0,,liquified_petroleum_gas
+942296,"Korea, Republic of",Other oil products n.e.c. - Non-energy uses,2009,"Metric tons,  thousand",595.0,,other_oil_products_n_e_c
+893234,State of Palestine,"Other kerosene - Consumption by manufacturing, construction and non-fuel industry",2005,"Metric tons,  thousand",0.5,,other_kerosene
+895894,Jordan,Other kerosene - Consumption by other,2005,"Metric tons,  thousand",154.77,,other_kerosene
+472163,Sao Tome and Principe,Gas Oil/ Diesel Oil - Transformation,2014,"Metric tons,  thousand",14.5,1.0,gas_oil_diesel_oil
+808899,Mexico,Natural gas (including LNG) - energy industries own use,2003,Terajoules,679299.0,,natural_gas_including_lng
+970551,China,Paraffin waxes - Final consumption,2008,"Metric tons,  thousand",817.14,,paraffin_waxes
