@@ -22,13 +22,13 @@ The dataset used in this project is the UCI Default of Credit Card Clients Datas
 
 3. Run the Jupyter notebook in the folder where the Notebook is located.
 
-* NB - please note that the packages in the requirements.txt file are as per the stable version at the time of writing the original project. You may need to update the packages based on the latest versions which might affect the code.
+* NB - Please note that the packages in the requirements.txt file are as per the stable version at the time of writing the original project. You may need to update the packages based on the latest versions which might affect the code.
 
 ## Results
 
 The project compares several classification algorithms, including Decision Trees, Random Forests, Linear SVM, and AdaBoost. The Decision Tree algorithm, further optimized through oversampling, provided the best results in terms of recall and overall performance.
 
-* There's an inconsistency with the Random Forest algorithm scores quoted. A more thorough inspection is required as the saved trained model is currently too big to be uploaded as it is and a fix needs to be found for that as well as the inspection.
+* NB_1 - There's an inconsistency with the Random Forest algorithm scores quoted. A more thorough inspection is required as the saved trained model is currently too big to be uploaded as it is and a fix needs to be found for that as well as the inspection.
 
 ## Conclusion
 
